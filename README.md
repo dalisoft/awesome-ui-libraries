@@ -27,16 +27,16 @@ List of curated UI libraries, templares and inspirations
 
 ## Components
 
-| Name        | Kind   | GitHub                                            | Website                           | PRO                             | Favorite |
-| ----------- | ------ | ------------------------------------------------- | --------------------------------- | ------------------------------- | -------- |
-| Badtzui     | Mixed  | <https://github.com/badtzx0/badtz-ui>             | <https://www.badtz-ui.com>        | [Yes](https://pro.badtz-ui.com) | -        |
-| BlitzCharts | Charts | <https://github.com/Partharora383/Blitzcharts>    | <https://blitz-charts.vercel.app> | -                               |          |
-| Eldoraui    | Mixed  | <https://github.com/karthikmudunuri/eldoraui>     | <https://www.eldoraui.site>       | -                               | -        |
-| evilcharts  | Charts | <https://github.com/legions-developer/evilcharts> | <https://evilcharts.com>          | -                               |          |
-| kokonut UI  | Mixed  | <https://github.com/kokonut-labs/kokonutui>       | <https://kokonutui.com>           | [Yes](https://kokonutui.pro)    |          |
-| Luxe        | Forms  | <https://github.com/guhrodrrigues/luxe>           | <https://www.luxeui.com>          | -                               | -        |
-| React Bits  | Mixed  | <https://github.com/DavidHDev/react-bits>         | <https://reactbits.dev>           | -                               | Top 1    |
-| Serenity Ui | Mixed  | <https://github.com/ayushmxxn/serenity-ui>        | <https://www.serenity-ui.com>     | -                               | -        |
+| Name        | Kind   | Framework | GitHub                                            | Website                           | PRO                             | Favorite |
+| ----------- | ------ | --------- | ------------------------------------------------- | --------------------------------- | ------------------------------- | -------- |
+| Badtzui     | Mixed  | React     | <https://github.com/badtzx0/badtz-ui>             | <https://www.badtz-ui.com>        | [Yes](https://pro.badtz-ui.com) | -        |
+| BlitzCharts | Charts | React     | <https://github.com/Partharora383/Blitzcharts>    | <https://blitz-charts.vercel.app> | -                               |          |
+| Eldoraui    | Mixed  | React     | <https://github.com/karthikmudunuri/eldoraui>     | <https://www.eldoraui.site>       | -                               | -        |
+| evilcharts  | Charts | React     | <https://github.com/legions-developer/evilcharts> | <https://evilcharts.com>          | -                               |          |
+| kokonut UI  | Mixed  | React     | <https://github.com/kokonut-labs/kokonutui>       | <https://kokonutui.com>           | [Yes](https://kokonutui.pro)    |          |
+| Luxe        | Forms  | React     | <https://github.com/guhrodrrigues/luxe>           | <https://www.luxeui.com>          | -                               | -        |
+| React Bits  | Mixed  | React     | <https://github.com/DavidHDev/react-bits>         | <https://reactbits.dev>           | -                               | Top 1    |
+| Serenity Ui | Mixed  | React     | <https://github.com/ayushmxxn/serenity-ui>        | <https://www.serenity-ui.com>     | -                               | -        |
 
 ## UI Libraries
 
@@ -109,16 +109,16 @@ List of curated UI libraries, templares and inspirations
 
 ### Dashboards
 
-| Name    | GitHub                                            | Website                            | PRO                               | Favorite |
-| ------- | ------------------------------------------------- | ---------------------------------- | --------------------------------- | -------- |
-| Horizon | <https://github.com/horizon-ui/horizon-ui-chakra> | <https://horizon-ui.com>           | [Yes](https://horizon-ui.com/pro) | -        |
-| Tabler  | <https://github.com/tabler/tabler>                | <https://tabler.io/admin-template> |                                   | --       |
+| Name    | Framework | GitHub                                            | Website                            | PRO                               | Favorite |
+| ------- | --------- | ------------------------------------------------- | ---------------------------------- | --------------------------------- | -------- |
+| Horizon | React     | <https://github.com/horizon-ui/horizon-ui-chakra> | <https://horizon-ui.com>           | [Yes](https://horizon-ui.com/pro) | -        |
+| Tabler  | HTML5     | <https://github.com/tabler/tabler>                | <https://tabler.io/admin-template> |                                   | --       |
 
 ### Other
 
-| Name           | GitHub                                           | Website                        | PRO | Favorite |
-| -------------- | ------------------------------------------------ | ------------------------------ | --- | -------- |
-| Origin Layouts | <https://github.com/origin-space/ui-experiments> | <https://originui.com/layouts> | -   | -        |
+| Name           | Framework | GitHub                                           | Website                        | PRO | Favorite |
+| -------------- | --------- | ------------------------------------------------ | ------------------------------ | --- | -------- |
+| Origin Layouts | React     | <https://github.com/origin-space/ui-experiments> | <https://originui.com/layouts> | -   | -        |
 
 ## Styling
 
