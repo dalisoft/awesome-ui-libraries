@@ -16,27 +16,34 @@ List of curated UI libraries, templares and inspirations
 
 ## Inspiration websites
 
-| Name           | GitHub | Website                             | Favorite |
-| -------------- | ------ | ----------------------------------- | -------- |
-| Awwwards       |        | <https://www.awwwards.com/websites> |          |
-| Godly          | -      | <https://godly.website>             | Top 1    |
-| Landbook       |        | <https://land-book.com>             |          |
-| MaxiBestOf     |        | <https://maxibestof.one>            |          |
-| Visual Journal |        | <https://visualjournal.it>          |          |
-| visuelle.      |        | <https://visuelle.co.uk>            |          |
+| Name           | GitHub | Website                                    | Favorite |
+| -------------- | ------ | ------------------------------------------ | -------- |
+| Awwwards       |        | <https://www.awwwards.com/websites>        |          |
+| Codrops        |        | <https://tympanus.net/codrops/webzibition> | Top 1    |
+| Godly          | -      | <https://godly.website>                    | Top 1    |
+| GSAP Showcase  |        | <https://gsap.com/showcase>                |          |
+| Httpster       |        | <https://httpster.net>                     |          |
+| Landbook       |        | <https://land-book.com>                    |          |
+| MaxiBestOf     |        | <https://maxibestof.one>                   |          |
+| Minimal        |        | <https://minimal.gallery>                  |          |
+| One Page Love  |        | <https://onepagelove.com>                  |          |
+| SiteInspire    |        | <https://www.siteinspire.com>              |          |
+| Visual Journal |        | <https://visualjournal.it>                 |          |
+| visuelle.      |        | <https://visuelle.co.uk>                   |          |
 
 ## Components
 
-| Name        | Kind   | Framework | GitHub                                            | Website                           | PRO                             | Favorite |
-| ----------- | ------ | --------- | ------------------------------------------------- | --------------------------------- | ------------------------------- | -------- |
-| Badtzui     | Mixed  | React     | <https://github.com/badtzx0/badtz-ui>             | <https://www.badtz-ui.com>        | [Yes](https://pro.badtz-ui.com) | -        |
-| BlitzCharts | Charts | React     | <https://github.com/Partharora383/Blitzcharts>    | <https://blitz-charts.vercel.app> | -                               |          |
-| Eldoraui    | Mixed  | React     | <https://github.com/karthikmudunuri/eldoraui>     | <https://www.eldoraui.site>       | -                               | -        |
-| evilcharts  | Charts | React     | <https://github.com/legions-developer/evilcharts> | <https://evilcharts.com>          | -                               |          |
-| kokonut UI  | Mixed  | React     | <https://github.com/kokonut-labs/kokonutui>       | <https://kokonutui.com>           | [Yes](https://kokonutui.pro)    |          |
-| Luxe        | Forms  | React     | <https://github.com/guhrodrrigues/luxe>           | <https://www.luxeui.com>          | -                               | -        |
-| React Bits  | Mixed  | React     | <https://github.com/DavidHDev/react-bits>         | <https://reactbits.dev>           | -                               | Top 1    |
-| Serenity Ui | Mixed  | React     | <https://github.com/ayushmxxn/serenity-ui>        | <https://www.serenity-ui.com>     | -                               | -        |
+| Name        | Kind   | Framework | GitHub                                            | Website                              | PRO                             | Favorite |
+| ----------- | ------ | --------- | ------------------------------------------------- | ------------------------------------ | ------------------------------- | -------- |
+| Badtzui     | Mixed  | React     | <https://github.com/badtzx0/badtz-ui>             | <https://www.badtz-ui.com>           | [Yes](https://pro.badtz-ui.com) | -        |
+| BlitzCharts | Charts | React     | <https://github.com/Partharora383/Blitzcharts>    | <https://blitz-charts.vercel.app>    | -                               |          |
+| Codrops     | Mixed  | Multiple  |                                                   | <https://tympanus.net/codrops/demos> |                                 |          |
+| Eldoraui    | Mixed  | React     | <https://github.com/karthikmudunuri/eldoraui>     | <https://www.eldoraui.site>          | -                               | -        |
+| evilcharts  | Charts | React     | <https://github.com/legions-developer/evilcharts> | <https://evilcharts.com>             | -                               |          |
+| kokonut UI  | Mixed  | React     | <https://github.com/kokonut-labs/kokonutui>       | <https://kokonutui.com>              | [Yes](https://kokonutui.pro)    |          |
+| Luxe        | Forms  | React     | <https://github.com/guhrodrrigues/luxe>           | <https://www.luxeui.com>             | -                               | -        |
+| React Bits  | Mixed  | React     | <https://github.com/DavidHDev/react-bits>         | <https://reactbits.dev>              | -                               | Top 1    |
+| Serenity Ui | Mixed  | React     | <https://github.com/ayushmxxn/serenity-ui>        | <https://www.serenity-ui.com>        | -                               | -        |
 
 ## UI Libraries
 
