@@ -90,6 +90,7 @@ List of curated UI libraries, templates and inspirations
 | Radix Primitives | React     | <https://github.com/radix-ui/primitives>              | <https://www.radix-ui.com>                     | -                                                      | Top 1    |
 | Radix Themes     | React     | <https://github.com/radix-ui/themes>                  | <https://www.radix-ui.com>                     | -                                                      | Top 1    |
 | React Aria       | React     | <https://github.com/adobe/react-spectrum>             | <https://react-spectrum.adobe.com/react-aria>  | -                                                      |          |
+| React Suite      | React     | <https://github.com/rsuite/rsuite>                    | <https://rsuitejs.com>                         | -                                                      | -        |
 | RetroUI          | React     | <https://github.com/Logging-Stuff/retroui>            | <https://www.retroui.dev>                      | [Yes](https://pro.retroui.dev)                         | -        |
 | Ring             | React     | <https://github.com/JetBrains/ring-ui>                | <https://jetbrains.github.io/ring-ui>          | -                                                      | -        |
 | RizzUI           | React     | <https://github.com/rizzui/rizzui>                    | <https://www.rizzui.com>                       | -                                                      | Top 5    |
