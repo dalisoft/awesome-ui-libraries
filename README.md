@@ -65,6 +65,7 @@ List of curated UI libraries, templares and inspirations
 | Franken          | HTML5     | <https://github.com/franken-ui/ui>                    | <https://franken-ui.dev>                       | -                                                      | -        |
 | Geist            | React     | <https://github.com/geist-org/geist-ui>               | <https://geist-ui.dev>                         | -                                                      | -        |
 | gluestack-ui     | React     | <https://github.com/gluestack/gluestack-ui>           | <https://gluestack.io>                         | -                                                      | Top 4    |
+| grommet          | React     | <https://github.com/grommet/grommet>                  | <https://v2.grommet.io>                        |                                                        |          |
 | headlessUI       | React/Vue | <https://github.com/tailwindlabs/headlessui>          | <https://headlessui.com>                       | -                                                      | -        |
 | Hero             | React     | <https://github.com/heroui-inc/heroui>                | <https://www.heroui.com>                       | -                                                      | Top 6    |
 | Hyper            | HTML5     | <https://github.com/markmead/hyperui>                 | <https://www.hyperui.dev>                      | -                                                      | -        |
@@ -81,8 +82,10 @@ List of curated UI libraries, templares and inspirations
 | PRIMEReact       | React     | <https://github.com/primefaces/primereact>            | <https://primereact.org>                       | -                                                      | Top 5    |
 | Radix Primitives | React     | <https://github.com/radix-ui/primitives>              | <https://www.radix-ui.com>                     | -                                                      | Top 1    |
 | Radix Themes     | React     | <https://github.com/radix-ui/themes>                  | <https://www.radix-ui.com>                     | -                                                      | Top 1    |
+| React Aria       | React     | <https://github.com/adobe/react-spectrum>             | <https://react-spectrum.adobe.com/react-aria>  |                                                        |          |
 | RetroUI          | React     | <https://github.com/Logging-Stuff/retroui>            | <https://www.retroui.dev>                      | [Yes](https://pro.retroui.dev)                         | -        |
 | Ring             | React     | <https://github.com/JetBrains/ring-ui>                | <https://jetbrains.github.io/ring-ui>          | -                                                      | -        |
+| RizzUI           | React     | <https://github.com/rizzui/rizzui>                    | <https://www.rizzui.com>                       |                                                        | Top 5    |
 | shadcn/ui        | React     | <https://github.com/shadcn-ui/ui>                     | <https://ui.shadcn.com>                        | -                                                      | Top 3    |
 | shadcn/ui Blocks | React     | <https://github.com/akash3444/shadcn-ui-blocks>       | <https://www.shadcnui-blocks.com>              | [Yes](https://pro.shadcnui-blocks.com)                 | Top 5    |
 | Shards           | React     | <https://github.com/DesignRevision/shards-react>      | <https://designrevision.com/docs/shards-react> | [Yes](https://designrevision.com/downloads/shards-pro) | -        |
@@ -97,13 +100,14 @@ List of curated UI libraries, templares and inspirations
 
 ### UI components
 
-- [21st](https://21st.dev)
 - [21st Authors](https://21st.dev/authors)
+- [21st](https://21st.dev)
 - [Awesome Design Resources List](https://github.com/darelova/Awesome-Design-Resources-List)
 - [Awesome React Design Systems](https://github.com/jbranchaud/awesome-react-design-systems)
 - [Awesome UI component library](https://github.com/anubhavsrivastava/awesome-ui-component-library)
 - [awesome-shadcn/ui](https://github.com/birobirobiro/awesome-shadcn-ui)
 - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
+- [UIVerse](https://uiverse.io)
 
 ## Templates
 
