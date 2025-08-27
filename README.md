@@ -4,6 +4,12 @@
 > Favorite rate are author rate not subjective or objective rating
 > You rate may vary
 
+## Other my awesome lists
+
+- [awesome-hosting](https://github.com/dalisoft/awesome-hosting)
+- [awesome-storage](https://github.com/dalisoft/awesome-storage)
+- [awesome-ai-coding](https://github.com/dalisoft/awesome-ai-coding)
+
 ## Inspiration websites
 
 | Name           | GitHub | Website                             | Favorite |
