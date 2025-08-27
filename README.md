@@ -1,5 +1,9 @@
 # Awesome UI Libraries & Inspirations
 
+List of curated UI libraries, templares and inspirations
+
+<a href="https://www.producthunt.com/products/github-175?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-github&#0045;bbe0807f&#0045;fef0&#0045;4a85&#0045;a768&#0045;da8594b72d36" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1010033&theme=light&t=1756301663548" alt="GitHub - List&#0032;of&#0032;curated&#0032;ui&#0032;libraries&#0044;&#0032;templares&#0032;and&#0032;inspirations | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 > [!NOTE]
 > Favorite rate are author rate not subjective or objective rating
 > You rate may vary
