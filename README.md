@@ -20,7 +20,7 @@ List of curated UI libraries, templares and inspirations
 | -------------- | ------ | ------------------------------------------ | -------- |
 | Awwwards       |        | <https://www.awwwards.com/websites>        |          |
 | Codrops        |        | <https://tympanus.net/codrops/webzibition> | Top 1    |
-| Godly          | -      | <https://godly.website>                    | Top 1    |
+| Godly          |        | <https://godly.website>                    | Top 1    |
 | GSAP Showcase  |        | <https://gsap.com/showcase>                |          |
 | Httpster       |        | <https://httpster.net>                     |          |
 | Landbook       |        | <https://land-book.com>                    |          |
@@ -36,11 +36,11 @@ List of curated UI libraries, templares and inspirations
 | Name        | Kind   | Framework | GitHub                                            | Website                              | PRO                             | Favorite |
 | ----------- | ------ | --------- | ------------------------------------------------- | ------------------------------------ | ------------------------------- | -------- |
 | Badtzui     | Mixed  | React     | <https://github.com/badtzx0/badtz-ui>             | <https://www.badtz-ui.com>           | [Yes](https://pro.badtz-ui.com) | -        |
-| BlitzCharts | Charts | React     | <https://github.com/Partharora383/Blitzcharts>    | <https://blitz-charts.vercel.app>    | -                               |          |
-| Codrops     | Mixed  | Multiple  |                                                   | <https://tympanus.net/codrops/demos> |                                 |          |
+| BlitzCharts | Charts | React     | <https://github.com/Partharora383/Blitzcharts>    | <https://blitz-charts.vercel.app>    | -                               | -        |
+| Codrops     | Mixed  | Multiple  |                                                   | <https://tympanus.net/codrops/demos> | -                               | -        |
 | Eldoraui    | Mixed  | React     | <https://github.com/karthikmudunuri/eldoraui>     | <https://www.eldoraui.site>          | -                               | -        |
-| evilcharts  | Charts | React     | <https://github.com/legions-developer/evilcharts> | <https://evilcharts.com>             | -                               |          |
-| kokonut UI  | Mixed  | React     | <https://github.com/kokonut-labs/kokonutui>       | <https://kokonutui.com>              | [Yes](https://kokonutui.pro)    |          |
+| evilcharts  | Charts | React     | <https://github.com/legions-developer/evilcharts> | <https://evilcharts.com>             | -                               | -        |
+| kokonut UI  | Mixed  | React     | <https://github.com/kokonut-labs/kokonutui>       | <https://kokonutui.com>              | [Yes](https://kokonutui.pro)    | -        |
 | Luxe        | Forms  | React     | <https://github.com/guhrodrrigues/luxe>           | <https://www.luxeui.com>             | -                               | -        |
 | React Bits  | Mixed  | React     | <https://github.com/DavidHDev/react-bits>         | <https://reactbits.dev>              | -                               | Top 1    |
 | Serenity Ui | Mixed  | React     | <https://github.com/ayushmxxn/serenity-ui>        | <https://www.serenity-ui.com>        | -                               | -        |
@@ -72,7 +72,7 @@ List of curated UI libraries, templares and inspirations
 | Franken          | HTML5     | <https://github.com/franken-ui/ui>                    | <https://franken-ui.dev>                       | -                                                      | -        |
 | Geist            | React     | <https://github.com/geist-org/geist-ui>               | <https://geist-ui.dev>                         | -                                                      | -        |
 | gluestack-ui     | React     | <https://github.com/gluestack/gluestack-ui>           | <https://gluestack.io>                         | -                                                      | Top 4    |
-| grommet          | React     | <https://github.com/grommet/grommet>                  | <https://v2.grommet.io>                        |                                                        |          |
+| grommet          | React     | <https://github.com/grommet/grommet>                  | <https://v2.grommet.io>                        | -                                                      |          |
 | headlessUI       | React/Vue | <https://github.com/tailwindlabs/headlessui>          | <https://headlessui.com>                       | -                                                      | -        |
 | Hero             | React     | <https://github.com/heroui-inc/heroui>                | <https://www.heroui.com>                       | -                                                      | Top 6    |
 | Hyper            | HTML5     | <https://github.com/markmead/hyperui>                 | <https://www.hyperui.dev>                      | -                                                      | -        |
@@ -82,17 +82,17 @@ List of curated UI libraries, templares and inspirations
 | MUI Material     | React     | <https://github.com/mui/material-ui>                  | <https://mui.com/material-ui>                  | -                                                      | -        |
 | Origin           | React     | <https://github.com/origin-space/originui>            | <https://originui.com>                         | -                                                      | -        |
 | PARK             | Multiple  | <https://github.com/cschroeter/park-ui>               | <https://park-ui.com>                          | -                                                      | -        |
-| Paste            | React     | <https://github.com/twilio-labs/paste>                | <https://paste.twilio.design>                  |                                                        | -        |
+| Paste            | React     | <https://github.com/twilio-labs/paste>                | <https://paste.twilio.design>                  | -                                                      | -        |
 | PatternFly       | React     | <https://github.com/patternfly/patternfly>            | <https://www.patternfly.org>                   | -                                                      | -        |
 | preline          | Multiple  | <https://github.com/htmlstreamofficial/preline>       | <https://preline.co>                           | [Yes](https://preline.co/pro)                          | Top 6    |
 | Primer           | React     | <https://github.com/primer/react>                     | <https://primer.style>                         | -                                                      | -        |
 | PRIMEReact       | React     | <https://github.com/primefaces/primereact>            | <https://primereact.org>                       | -                                                      | Top 5    |
 | Radix Primitives | React     | <https://github.com/radix-ui/primitives>              | <https://www.radix-ui.com>                     | -                                                      | Top 1    |
 | Radix Themes     | React     | <https://github.com/radix-ui/themes>                  | <https://www.radix-ui.com>                     | -                                                      | Top 1    |
-| React Aria       | React     | <https://github.com/adobe/react-spectrum>             | <https://react-spectrum.adobe.com/react-aria>  |                                                        |          |
+| React Aria       | React     | <https://github.com/adobe/react-spectrum>             | <https://react-spectrum.adobe.com/react-aria>  | -                                                      |          |
 | RetroUI          | React     | <https://github.com/Logging-Stuff/retroui>            | <https://www.retroui.dev>                      | [Yes](https://pro.retroui.dev)                         | -        |
 | Ring             | React     | <https://github.com/JetBrains/ring-ui>                | <https://jetbrains.github.io/ring-ui>          | -                                                      | -        |
-| RizzUI           | React     | <https://github.com/rizzui/rizzui>                    | <https://www.rizzui.com>                       |                                                        | Top 5    |
+| RizzUI           | React     | <https://github.com/rizzui/rizzui>                    | <https://www.rizzui.com>                       | -                                                      | Top 5    |
 | shadcn/ui        | React     | <https://github.com/shadcn-ui/ui>                     | <https://ui.shadcn.com>                        | -                                                      | Top 3    |
 | shadcn/ui Blocks | React     | <https://github.com/akash3444/shadcn-ui-blocks>       | <https://www.shadcnui-blocks.com>              | [Yes](https://pro.shadcnui-blocks.com)                 | Top 5    |
 | Shards           | React     | <https://github.com/DesignRevision/shards-react>      | <https://designrevision.com/docs/shards-react> | [Yes](https://designrevision.com/downloads/shards-pro) | -        |
@@ -123,7 +123,7 @@ List of curated UI libraries, templares and inspirations
 | Name    | Framework | GitHub                                            | Website                            | PRO                               | Favorite |
 | ------- | --------- | ------------------------------------------------- | ---------------------------------- | --------------------------------- | -------- |
 | Horizon | React     | <https://github.com/horizon-ui/horizon-ui-chakra> | <https://horizon-ui.com>           | [Yes](https://horizon-ui.com/pro) | -        |
-| Tabler  | HTML5     | <https://github.com/tabler/tabler>                | <https://tabler.io/admin-template> |                                   | --       |
+| Tabler  | HTML5     | <https://github.com/tabler/tabler>                | <https://tabler.io/admin-template> |                                   | -        |
 
 ### Other
 
