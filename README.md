@@ -123,7 +123,7 @@ List of curated UI libraries, templares and inspirations
 | Name    | Framework | GitHub                                            | Website                            | PRO                               | Favorite |
 | ------- | --------- | ------------------------------------------------- | ---------------------------------- | --------------------------------- | -------- |
 | Horizon | React     | <https://github.com/horizon-ui/horizon-ui-chakra> | <https://horizon-ui.com>           | [Yes](https://horizon-ui.com/pro) | -        |
-| Tabler  | HTML5     | <https://github.com/tabler/tabler>                | <https://tabler.io/admin-template> |                                   | -        |
+| Tabler  | HTML5     | <https://github.com/tabler/tabler>                | <https://tabler.io/admin-template> | -                                 | -        |
 
 ### Other
 
