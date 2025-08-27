@@ -122,9 +122,8 @@
 | ------- | ------------------------------------ | --------------------- | ---------------------------------- | -------- |
 | Tweakcn | <https://github.com/jnsahaj/tweakcn> | <https://tweakcn.com> | [Yes](https://tweakcn.com/pricing) | -        |
 
-## User
+---
 
-- What is my style? minimalism, clean or what?
-- Can you please find a godly.website alternatives, especially i've seen at GitHub
-- Can you find a Good and clean UI's alternatives?
-- Which one has a MCP server?
+## License
+
+MIT
