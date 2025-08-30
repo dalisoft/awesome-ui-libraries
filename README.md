@@ -14,6 +14,7 @@ List of curated UI libraries, templates and inspirations
 - [awesome-hosting](https://github.com/dalisoft/awesome-hosting)
 - [awesome-storage](https://github.com/dalisoft/awesome-storage)
 - [awesome-ai-coding](https://github.com/dalisoft/awesome-ai-coding)
+- [awesome-cms](https://github.com/dalisoft/awesome-cms)
 
 ## Inspiration websites
 
