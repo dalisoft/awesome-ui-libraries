@@ -35,18 +35,27 @@ List of curated UI libraries, templates and inspirations
 
 ## Components
 
-| Name        | Kind   | Framework | GitHub                                            | Website                              | PRO                             | Favorite |
-| ----------- | ------ | --------- | ------------------------------------------------- | ------------------------------------ | ------------------------------- | -------- |
-| Badtzui     | Mixed  | React     | <https://github.com/badtzx0/badtz-ui>             | <https://www.badtz-ui.com>           | [Yes](https://pro.badtz-ui.com) | -        |
-| BlitzCharts | Charts | React     | <https://github.com/Partharora383/Blitzcharts>    | <https://blitz-charts.vercel.app>    | -                               | -        |
-| Codrops     | Mixed  | Multiple  |                                                   | <https://tympanus.net/codrops/demos> | -                               | -        |
-| Eldoraui    | Mixed  | React     | <https://github.com/karthikmudunuri/eldoraui>     | <https://www.eldoraui.site>          | -                               | -        |
-| evilcharts  | Charts | React     | <https://github.com/legions-developer/evilcharts> | <https://evilcharts.com>             | -                               | -        |
-| kokonut UI  | Mixed  | React     | <https://github.com/kokonut-labs/kokonutui>       | <https://kokonutui.com>              | [Yes](https://kokonutui.pro)    | -        |
-| Luxe        | Forms  | React     | <https://github.com/guhrodrrigues/luxe>           | <https://www.luxeui.com>             | -                               | -        |
-| React Bits  | Mixed  | React     | <https://github.com/DavidHDev/react-bits>         | <https://reactbits.dev>              | -                               | Top 1    |
-| Serenity Ui | Mixed  | React     | <https://github.com/ayushmxxn/serenity-ui>        | <https://www.serenity-ui.com>        | -                               | -        |
-| AI Elements | AI     | React     | <https://github.com/vercel/ai-elements>           | <https://ai-sdk.dev/elements>        | -                               | -        |
+| Name          | Kind   | Framework | GitHub                                            | Website                              | PRO                             | Favorite |
+| ------------- | ------ | --------- | ------------------------------------------------- | ------------------------------------ | ------------------------------- | -------- |
+| AI Elements   | AI     | React     | <https://github.com/vercel/ai-elements>           | <https://ai-sdk.dev/elements>        | -                               | -        |
+| Badtzui       | Mixed  | React     | <https://github.com/badtzx0/badtz-ui>             | <https://www.badtz-ui.com>           | [Yes](https://pro.badtz-ui.com) | -        |
+| BlitzCharts   | Charts | React     | <https://github.com/Partharora383/Blitzcharts>    | <https://blitz-charts.vercel.app>    | -                               | -        |
+| blocks        | Blocks | React     | <https://github.com/ephraimduncan/blocks>         | <https://blocks.so>                  | -                               | -        |
+| Chanhdai      | -      | React     | <https://github.com/ncdai/chanhdai.com>           | <https://chanhdai.com/components>    | -                               | -        |
+| Codrops       | Mixed  | Multiple  |                                                   | <https://tympanus.net/codrops/demos> | -                               | -        |
+| Dice          | Mixed  | React     | <https://github.com/sadmann7/diceui>              | <https://www.diceui.com>             | -                               | -        |
+| Eldoraui      | Mixed  | React     | <https://github.com/karthikmudunuri/eldoraui>     | <https://www.eldoraui.site>          | -                               | -        |
+| evilcharts    | Charts | React     | <https://github.com/legions-developer/evilcharts> | <https://evilcharts.com>             | -                               | -        |
+| fancy         | Mixed  | React     | <https://github.com/danielpetho/fancy>            | <https://www.fancycomponents.dev>    | -                               | -        |
+| Formedible    | Forms  | React     | <https://github.com/DimitriGilbert/FormEdible>    | <https://formedible.dev>             | -                               | -        |
+| kokonut UI    | Mixed  | React     | <https://github.com/kokonut-labs/kokonutui>       | <https://kokonutui.com>              | [Yes](https://kokonutui.pro)    | -        |
+| Luxe          | Forms  | React     | <https://github.com/guhrodrrigues/luxe>           | <https://www.luxeui.com>             | -                               | -        |
+| Osmium        | AI     | React     | <https://github.com/sier-sh/osmium>               | <https://osmium.intface.io>          | -                               | -        |
+| Raulcarini UI | -      | React     | <https://github.com/r4ultv/ui>                    | <https://ui.raulcarini.dev>          | -                               | -        |
+| React Bits    | Mixed  | React     | <https://github.com/DavidHDev/react-bits>         | <https://reactbits.dev>              | -                               | Top 1    |
+| Serenity Ui   | Mixed  | React     | <https://github.com/ayushmxxn/serenity-ui>        | <https://www.serenity-ui.com>        | -                               | -        |
+| Tailark       | Blocks | React     | <https://github.com/tailark/blocks>               | <https://tailark.com>                | [Yes](https://pro.tailark.com)  | -        |
+| XD UI         | AI     | React     | <https://github.com/suraj-xd/XD-UI-Library>       | <https://ui.surajgaud.com>           | -                               | -        |
 
 ## UI Libraries
 
@@ -54,11 +63,14 @@ List of curated UI libraries, templates and inspirations
 
 | Name             | Framework | GitHub                                                | Website                                            | PRO                                                    | Favorite |
 | ---------------- | --------- | ----------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------ | -------- |
+| 9ui              | React     | <https://github.com/borabaloglu/9ui>                  | <https://www.9ui.dev>                              | -                                                      | Top 3    |
 | Aceternity       | React     | -                                                     | <https://ui.aceternity.com>                        | [Yes](https://pro.aceternity.com)                      | Top 2    |
 | Alignui          | React     | <https://github.com/alignui>                          | <https://www.alignui.com>                          | [Yes](https://pro.alignui.com)                         | Top 5    |
+| Animate          | React     | <https://github.com/imskyleen/animate-ui>             | <https://animate-ui.com>                           | -                                                      | Top 2    |
 | Ant-Design       | React     | <https://github.com/ant-design/ant-design>            | <https://ant.design>                               | -                                                      | -        |
 | Ariakit          | React     | <https://github.com/ariakit/ariakit>                  | <https://ariakit.org>                              | [Yes](https://ariakit.org/plus)                        | Top 5    |
 | ARK              | Multiple  | <https://github.com/chakra-ui/ark>                    | <https://ark-ui.com>                               | [Yes](https://ark-ui.com/plus)                         | Top 5    |
+| Base             | React     | <https://github.com/akash3444/basecn>                 | <https://basecn.dev>                               | -                                                      | -        |
 | Base             | React     | <https://github.com/mui/base-ui>                      | <https://base-ui.com>                              | -                                                      | Top 4    |
 | Baseweb          | React     | <https://github.com/uber/baseweb>                     | <https://baseweb.design>                           | -                                                      | -        |
 | Blueprint        | React     | <https://github.com/palantir/blueprint>               | <https://blueprintjs.com>                          | -                                                      | -        |
@@ -79,6 +91,7 @@ List of curated UI libraries, templates and inspirations
 | grommet          | React     | <https://github.com/grommet/grommet>                  | <https://v2.grommet.io>                            | -                                                      |          |
 | headlessUI       | React/Vue | <https://github.com/tailwindlabs/headlessui>          | <https://headlessui.com>                           | -                                                      | -        |
 | Hero             | React     | <https://github.com/heroui-inc/heroui>                | <https://www.heroui.com>                           | -                                                      | Top 6    |
+| Hexta            | React     | <https://github.com/preetsuthar17/HeseUI>             | <https://base.hextaui.com>                         | -                                                      | -        |
 | Hyper            | HTML5     | <https://github.com/markmead/hyperui>                 | <https://www.hyperui.dev>                          | -                                                      | -        |
 | Magic            | React     | <https://github.com/magicuidesign/magicui>            | <https://magicui.design>                           | -                                                      | Top 2    |
 | Mantine          | React     | <https://github.com/mantinedev/mantine>               | <https://mantine.dev>                              | -                                                      | Top 4    |
@@ -96,6 +109,7 @@ List of curated UI libraries, templates and inspirations
 | React Aria       | React     | <https://github.com/adobe/react-spectrum>             | <https://react-spectrum.adobe.com/react-aria>      | -                                                      |          |
 | React Suite      | React     | <https://github.com/rsuite/rsuite>                    | <https://rsuitejs.com>                             | -                                                      | -        |
 | RetroUI          | React     | <https://github.com/Logging-Stuff/retroui>            | <https://www.retroui.dev>                          | [Yes](https://pro.retroui.dev)                         | -        |
+| REUI             | React     | <https://github.com/keenthemes/reui>                  | <https://reui.io>                                  | -                                                      | -        |
 | Ring             | React     | <https://github.com/JetBrains/ring-ui>                | <https://jetbrains.github.io/ring-ui>              | -                                                      | -        |
 | RizzUI           | React     | <https://github.com/rizzui/rizzui>                    | <https://www.rizzui.com>                           | -                                                      | Top 5    |
 | shadcn/ui        | React     | <https://github.com/shadcn-ui/ui>                     | <https://ui.shadcn.com>                            | -                                                      | Top 3    |
