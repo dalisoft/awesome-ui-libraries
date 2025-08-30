@@ -6,6 +6,7 @@ List of curated UI libraries, templates and inspirations
 
 > [!NOTE]
 > Favorite rate are author rate not subjective or objective rating
+>
 > You rate may vary
 
 ## Other my awesome lists
