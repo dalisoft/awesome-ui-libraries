@@ -44,6 +44,7 @@ List of curated UI libraries, templates and inspirations
 | Luxe        | Forms  | React     | <https://github.com/guhrodrrigues/luxe>           | <https://www.luxeui.com>             | -                               | -        |
 | React Bits  | Mixed  | React     | <https://github.com/DavidHDev/react-bits>         | <https://reactbits.dev>              | -                               | Top 1    |
 | Serenity Ui | Mixed  | React     | <https://github.com/ayushmxxn/serenity-ui>        | <https://www.serenity-ui.com>        | -                               | -        |
+| AI Elements | AI     | React     | <https://github.com/vercel/ai-elements>           | <https://ai-sdk.dev/elements>        | -                               | -        |
 
 ## UI Libraries
 
@@ -87,8 +88,8 @@ List of curated UI libraries, templates and inspirations
 | preline          | Multiple  | <https://github.com/htmlstreamofficial/preline>       | <https://preline.co>                           | [Yes](https://preline.co/pro)                          | Top 6    |
 | Primer           | React     | <https://github.com/primer/react>                     | <https://primer.style>                         | -                                                      | -        |
 | PRIMEReact       | React     | <https://github.com/primefaces/primereact>            | <https://primereact.org>                       | -                                                      | Top 5    |
-| Radix Primitives | React     | <https://github.com/radix-ui/primitives>              | <https://www.radix-ui.com>                     | -                                                      | Top 1    |
-| Radix Themes     | React     | <https://github.com/radix-ui/themes>                  | <https://www.radix-ui.com>                     | -                                                      | Top 1    |
+| Radix Primitives | React     | <https://github.com/radix-ui/primitives>              | <https://www.radix-ui.com/primitives>          | -                                                      | Top 1    |
+| Radix Themes     | React     | <https://github.com/radix-ui/themes>                  | <https://www.radix-ui.com/themes>              | -                                                      | Top 1    |
 | React Aria       | React     | <https://github.com/adobe/react-spectrum>             | <https://react-spectrum.adobe.com/react-aria>  | -                                                      |          |
 | React Suite      | React     | <https://github.com/rsuite/rsuite>                    | <https://rsuitejs.com>                         | -                                                      | -        |
 | RetroUI          | React     | <https://github.com/Logging-Stuff/retroui>            | <https://www.retroui.dev>                      | [Yes](https://pro.retroui.dev)                         | -        |
@@ -114,6 +115,8 @@ List of curated UI libraries, templates and inspirations
 - [Awesome React Design Systems](https://github.com/jbranchaud/awesome-react-design-systems)
 - [Awesome UI component library](https://github.com/anubhavsrivastava/awesome-ui-component-library)
 - [awesome-shadcn/ui](https://github.com/birobirobiro/awesome-shadcn-ui)
+- [awesome-minimalist](https://github.com/neiesc/awesome-minimalist)
+- [awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks)
 - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
 - [UIVerse](https://uiverse.io)
 
