@@ -2,7 +2,7 @@
 
 List of curated UI libraries, templates and inspirations
 
-<a href="https://www.producthunt.com/products/github-175?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-github&#0045;bbe0807f&#0045;fef0&#0045;4a85&#0045;a768&#0045;da8594b72d36" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1010033&theme=light&t=1756301663548" alt="GitHub - List&#0032;of&#0032;curated&#0032;ui&#0032;libraries&#0044;&#0032;templares&#0032;and&#0032;inspirations | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://www.producthunt.com/products/github-175?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-github&#0045;bbe0807f&#0045;fef0&#0045;4a85&#0045;a768&#0045;da8594b72d36" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1010033&theme=light&t=1756301663548" alt="Repository - List&#0032;of&#0032;curated&#0032;ui&#0032;libraries&#0044;&#0032;templares&#0032;and&#0032;inspirations | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 > [!NOTE]
 > Favorite rate are author rate not subjective or objective rating
@@ -27,24 +27,24 @@ List of curated UI libraries, templates and inspirations
 
 ## Inspiration websites
 
-| Name           | GitHub | Website                                    | Favorite |
-| -------------- | ------ | ------------------------------------------ | -------- |
-| Awwwards       |        | <https://www.awwwards.com/websites>        |          |
-| Codrops        |        | <https://tympanus.net/codrops/webzibition> | Top 1    |
-| Godly          |        | <https://godly.website>                    | Top 1    |
-| GSAP Showcase  |        | <https://gsap.com/showcase>                |          |
-| Httpster       |        | <https://httpster.net>                     |          |
-| Landbook       |        | <https://land-book.com>                    |          |
-| MaxiBestOf     |        | <https://maxibestof.one>                   |          |
-| Minimal        |        | <https://minimal.gallery>                  |          |
-| One Page Love  |        | <https://onepagelove.com>                  |          |
-| SiteInspire    |        | <https://www.siteinspire.com>              |          |
-| Visual Journal |        | <https://visualjournal.it>                 |          |
-| visuelle.      |        | <https://visuelle.co.uk>                   |          |
+| Name           | Repository | Website                                    | Favorite |
+| -------------- | ---------- | ------------------------------------------ | -------- |
+| Awwwards       |            | <https://www.awwwards.com/websites>        |          |
+| Codrops        |            | <https://tympanus.net/codrops/webzibition> | Top 1    |
+| Godly          |            | <https://godly.website>                    | Top 1    |
+| GSAP Showcase  |            | <https://gsap.com/showcase>                |          |
+| Httpster       |            | <https://httpster.net>                     |          |
+| Landbook       |            | <https://land-book.com>                    |          |
+| MaxiBestOf     |            | <https://maxibestof.one>                   |          |
+| Minimal        |            | <https://minimal.gallery>                  |          |
+| One Page Love  |            | <https://onepagelove.com>                  |          |
+| SiteInspire    |            | <https://www.siteinspire.com>              |          |
+| Visual Journal |            | <https://visualjournal.it>                 |          |
+| visuelle.      |            | <https://visuelle.co.uk>                   |          |
 
 ## Components
 
-| Name          | Kind   | Framework | GitHub                                            | Website                              | PRO                             | Favorite | MCP |
+| Name          | Kind   | Framework | Repository                                        | Website                              | PRO                             | Favorite | MCP |
 | ------------- | ------ | --------- | ------------------------------------------------- | ------------------------------------ | ------------------------------- | -------- | --- |
 | AI Elements   | AI     | React     | <https://github.com/vercel/ai-elements>           | <https://ai-sdk.dev/elements>        | -                               | -        | -   |
 | Badtzui       | Mixed  | React     | <https://github.com/badtzx0/badtz-ui>             | <https://www.badtz-ui.com>           | [Yes](https://pro.badtz-ui.com) | -        | -   |
@@ -71,7 +71,7 @@ List of curated UI libraries, templates and inspirations
 - I prefer React UI components but others are good too, feel free to create PR
 - Only **official MCP** are allowed and included
 
-| Name             | Framework | GitHub                                                | Website                                            | PRO                                                    | Favorite | MCP                                                         |
+| Name             | Framework | Repository                                            | Website                                            | PRO                                                    | Favorite | MCP                                                         |
 | ---------------- | --------- | ----------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------ | -------- | ----------------------------------------------------------- |
 | 9ui              | React     | <https://github.com/borabaloglu/9ui>                  | <https://www.9ui.dev>                              | -                                                      | Top 3    | -                                                           |
 | Aceternity       | React     | -                                                     | <https://ui.aceternity.com>                        | [Yes](https://pro.aceternity.com)                      | Top 2    | -                                                           |
@@ -152,7 +152,7 @@ List of curated UI libraries, templates and inspirations
 
 ### Dashboards
 
-| Name      | Framework | GitHub                                            | Website                            | PRO                                  | Favorite | MCP |
+| Name      | Framework | Repository                                        | Website                            | PRO                                  | Favorite | MCP |
 | --------- | --------- | ------------------------------------------------- | ---------------------------------- | ------------------------------------ | -------- | --- |
 | Horizon   | React     | <https://github.com/horizon-ui/horizon-ui-chakra> | <https://horizon-ui.com>           | [Yes](https://horizon-ui.com/pro)    | -        | -   |
 | Tabler    | HTML5     | <https://github.com/tabler/tabler>                | <https://tabler.io/admin-template> | -                                    | -        | -   |
@@ -160,13 +160,13 @@ List of curated UI libraries, templates and inspirations
 
 ### Other
 
-| Name           | Framework | GitHub                                           | Website                        | PRO | Favorite | MCP |
+| Name           | Framework | Repository                                       | Website                        | PRO | Favorite | MCP |
 | -------------- | --------- | ------------------------------------------------ | ------------------------------ | --- | -------- | --- |
 | Origin Layouts | React     | <https://github.com/origin-space/ui-experiments> | <https://originui.com/layouts> | -   | -        | -   |
 
 ## Styling
 
-| Name    | GitHub                               | Website               | PRO                                | Favorite | MCP |
+| Name    | Repository                           | Website               | PRO                                | Favorite | MCP |
 | ------- | ------------------------------------ | --------------------- | ---------------------------------- | -------- | --- |
 | Tweakcn | <https://github.com/jnsahaj/tweakcn> | <https://tweakcn.com> | [Yes](https://tweakcn.com/pricing) | -        | -   |
 
