@@ -65,6 +65,7 @@ List of curated UI libraries, templates and inspirations
 | Raulcarini UI | -      | React     | <https://github.com/r4ultv/ui>                    | <https://ui.raulcarini.dev>          | -                               | -        | -                                       |
 | React Bits    | Mixed  | React     | <https://github.com/DavidHDev/react-bits>         | <https://reactbits.dev>              | -                               | Top 1    | -                                       |
 | Serenity Ui   | Mixed  | React     | <https://github.com/ayushmxxn/serenity-ui>        | <https://www.serenity-ui.com>        | -                               | -        | -                                       |
+| SolaceUI      | Blocks | React     | -                                                 | <https://www.solaceui.com>           | -                               | -        | -                                       |
 | Tailark       | Blocks | React     | <https://github.com/tailark/blocks>               | <https://tailark.com>                | [Yes](https://pro.tailark.com)  | -        | -                                       |
 | XD UI         | AI     | React     | <https://github.com/suraj-xd/XD-UI-Library>       | <https://ui.surajgaud.com>           | -                               | -        | -                                       |
 
