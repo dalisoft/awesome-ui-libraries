@@ -192,6 +192,7 @@ List of curated UI libraries, templates and inspirations
 | ---------------- | --------- | ------------------------------------------------- | --------------------------------------- | ------------------------------------ | -------- | --- |
 | Horizon          | React     | <https://github.com/horizon-ui/horizon-ui-chakra> | <https://horizon-ui.com>                | [Yes](https://horizon-ui.com/pro)    | -        | -   |
 | K8S UI           | React     | <https://github.com/PRO-Robotech/openapi-ui>      | -                                       | -                                    | -        | -   |
+| Shadboard        | React     | <https://github.com/Qualiora/shadboard>           | <https://shadboard.vercel.app/>         | -                                    | -        | -   |
 | shadcn-admin-kit | React     | <https://github.com/marmelab/shadcn-admin-kit>    | <https://marmelab.com/shadcn-admin-kit> | -                                    | -        | -   |
 | Tabler           | HTML5     | <https://github.com/tabler/tabler>                | <https://tabler.io/admin-template>      | -                                    | -        | -   |
 | TailAdmin        | Multiple  | <https://github.com/TailAdmin>                    | <https://tailadmin.com>                 | [Yes](https://tailadmin.com/pricing) | -        | -   |
