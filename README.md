@@ -196,6 +196,7 @@ List of curated UI libraries, templates and inspirations
 | shadcn-admin-kit | React     | <https://github.com/marmelab/shadcn-admin-kit>    | <https://marmelab.com/shadcn-admin-kit> | -                                    | -        | -   |
 | Tabler           | HTML5     | <https://github.com/tabler/tabler>                | <https://tabler.io/admin-template>      | -                                    | -        | -   |
 | TailAdmin        | Multiple  | <https://github.com/TailAdmin>                    | <https://tailadmin.com>                 | [Yes](https://tailadmin.com/pricing) | -        | -   |
+| Tailwindadmin    | Multiple  | <https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template> | <https://tailwind-admin.com/> | [Yes](https://tailwind-admin.com/pricing) | -        | -   |
 
 ### Other
 
