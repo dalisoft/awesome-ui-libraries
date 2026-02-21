@@ -122,6 +122,7 @@ List of curated UI libraries, templates and inspirations
 | Spectrum         | React     | <https://github.com/arihantcodes/spectrum-ui>      | <https://ui.spectrumhq.in>              | -                                         | -        | -                                      |
 | tremor           | React     | <https://github.com/tremorlabs/tremor>             | <https://tremor.so>                     | -                                         | -        | -                                      |
 | Untitled         | React     | <https://github.com/untitleduico>                  | <https://www.untitledui.com>            | [Yes](https://www.untitledui.com/pricing) | Top 5    | -                                      |
+| Shadcn Space     | React     | <https://github.com/shadcnspace/shadcnspace>       | <https://shadcnspace.com/>              | [Yes](https://shadcnspace.com/pricing)    | Top 5    |  -                                     |
 
 ## UI Libraries
 
@@ -196,6 +197,7 @@ List of curated UI libraries, templates and inspirations
 | shadcn-admin-kit | React     | <https://github.com/marmelab/shadcn-admin-kit>    | <https://marmelab.com/shadcn-admin-kit> | -                                    | -        | -   |
 | Tabler           | HTML5     | <https://github.com/tabler/tabler>                | <https://tabler.io/admin-template>      | -                                    | -        | -   |
 | TailAdmin        | Multiple  | <https://github.com/TailAdmin>                    | <https://tailadmin.com>                 | [Yes](https://tailadmin.com/pricing) | -        | -   |
+| Tailwindadmin    | Multiple  | <https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template> | <https://tailwind-admin.com/>                 | [Yes](https://tailwind-admin.com/pricing) | -        | -   |
 
 ### Other
 
