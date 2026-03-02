@@ -253,6 +253,13 @@ List of curated UI libraries, templates and inspirations
 | Shadcn Design | -          | <https://www.shadcndesign.com> | [Yes](https://www.shadcndesign.com/pricing) | -        |
 | shadcraft     | -          | <https://shadcraft.com>        | [Yes](https://shadcraft.com/pricing)        | -        |
 
+### AI UI & Website Prompts
+
+| Name         | Repository | Website                   | PRO | Favorite |
+| ------------ | ---------- | ------------------------- | --- | -------- |
+| DesignRocket |            | <https://designrocket.io> | YES | -        |
+| Motion Sites |            | <https://motionsites.ai>  | -   | -        |
+
 ---
 
 ## License
