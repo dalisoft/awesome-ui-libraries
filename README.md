@@ -40,6 +40,7 @@ List of curated UI libraries, templates and inspirations
 | Name              | Repository | Website                                    | Favorite |
 | ----------------- | ---------- | ------------------------------------------ | -------- |
 | Awwwards          |            | <https://www.awwwards.com/websites>        |          |
+| Best Design on X  |            | <https://bestdesignsonx.com>               |          |
 | Best Website      |            | <https://bestwebsite.gallery>              |          |
 | Codrops           |            | <https://tympanus.net/codrops/webzibition> | Top 1    |
 | CSS Design Awards |            | <https://www.cssdesignawards.com>          |          |
@@ -81,6 +82,7 @@ List of curated UI libraries, templates and inspirations
 | evilcharts        | Charts       | React     | <https://github.com/legions-developer/evilcharts> | <https://evilcharts.com>             | -                                            | -        | -                                              |
 | fancy             | Mixed        | React     | <https://github.com/danielpetho/fancy>            | <https://www.fancycomponents.dev>    | -                                            | -        | -                                              |
 | Formedible        | Forms        | React     | <https://github.com/DimitriGilbert/FormEdible>    | <https://formedible.dev>             | -                                            | -        | -                                              |
+| Indev/Ui          | Mixed        | React     | <https://github.com/ln-dev7/square-ui>            | <https://ui.lndev.me>                | Yes                                          | -        |                                                |
 | Kibo UI           | Mixed        | React     | <https://github.com/haydenbleasel/kibo>           | <https://www.kibo-ui.com>            | -                                            | -        | [Yes](https://www.kibo-ui.com/docs/mcp)        |
 | Kitze UI          | Mixed        | React     | <https://github.com/kitze/kitze-ui-repository>    | <https://ui.kitze.io>                | -                                            | -        | -                                              |
 | kokonut UI        | Mixed        | React     | <https://github.com/kokonut-labs/kokonutui>       | <https://kokonutui.com>              | [Yes](https://kokonutui.pro)                 | -        | -                                              |
@@ -119,34 +121,34 @@ List of curated UI libraries, templates and inspirations
 - I prefer React UI components but others are good too, feel free to create PR
 - Only **official MCP** are allowed and included
 
-| Name             | Framework | Repository                                         | Website                                 | PRO                                       | Favorite | MCP                                    |
-| ---------------- | --------- | -------------------------------------------------- | --------------------------------------- | ----------------------------------------- | -------- | -------------------------------------- |
-| 8bitcn           | React     | <https://github.com/TheOrcDev/8bitcn-ui>           | <https://www.8bitcn.com>                | -                                         | -        | -                                      |
-| 9ui              | React     | <https://github.com/borabaloglu/9ui>               | <https://www.9ui.dev>                   | -                                         | Top 3    | -                                      |
-| Aceternity       | React     | -                                                  | <https://ui.aceternity.com>             | [Yes](https://pro.aceternity.com)         | Top 2    | -                                      |
-| Alignui          | React     | <https://github.com/alignui>                       | <https://www.alignui.com>               | [Yes](https://pro.alignui.com)            | Top 5    | -                                      |
-| Animate          | React     | <https://github.com/imskyleen/animate-ui>          | <https://animate-ui.com>                | -                                         | Top 2    | [Yes](https://animate-ui.com/docs/mcp) |
-| Base             | React     | <https://github.com/akash3444/basecn>              | <https://basecn.dev>                    | -                                         | -        | -                                      |
-| dotUI            | React     | <https://github.com/mehdibha/dotUI>                | <https://dotui.org>                     | -                                         | Top 3    | -                                      |
-| Hese             | React     | <https://github.com/preetsuthar17/HeseUI>          | -                                       | -                                         | -        | -                                      |
-| Hexta            | React     | <https://github.com/preetsuthar17/HextaUI>         | <https://hextaui.com>                   | [Yes](https://pro.hextaui.com/blocks)     | -        | -                                      |
-| JollyUI          | React     | <https://github.com/jolbol1/jolly-ui>              | <https://www.jollyui.dev>               | -                                         | -        | -                                      |
-| Magic            | React     | <https://github.com/magicuidesign/magicui>         | <https://magicui.design>                | -                                         | Top 2    | [Yes](https://magicui.design/docs/mcp) |
-| Origin           | React     | <https://github.com/cosscom/coss>                  | <https://coss.com/origin>               | -                                         | -        | -                                      |
-| preline          | Multiple  | <https://github.com/htmlstreamofficial/preline>    | <https://preline.co>                    | [Yes](https://preline.co/pro)             | Top 6    | -                                      |
-| RetroUI          | React     | <https://github.com/Logging-Stuff/retroui>         | <https://www.retroui.dev>               | [Yes](https://pro.retroui.dev)            | -        | -                                      |
-| REUI             | React     | <https://github.com/keenthemes/reui>               | <https://reui.io>                       | -                                         | -        | -                                      |
-| shacdn/ui-blocks | React     | <https://github.com/shadcnblocks/shadcn-ui-blocks> | <https://www.shadcnblocks.com>          | -                                         | -        | -                                      |
-| Shadcn Space     | React     | <https://github.com/shadcnspace/shadcnspace>       | <https://shadcnspace.com/>              | [Yes](https://shadcnspace.com/pricing)    | -        | -                                      |
-| shadcn Store     | React     | -                                                  | <https://shadcnstore.com>               | [Yes](https://shadcnstore.com/pricing)    | -        | -                                      |
-| shadcn-admin-kit | React     | <https://github.com/marmelab/shadcn-admin-kit>     | <https://marmelab.com/shadcn-admin-kit> | -                                         | -        | -                                      |
-| shadcn/studio    | React     | <https://github.com/themeselection/shadcn-studio>  | <https://shadcnstudio.com>              | [Yes](https://shadcnstudio.com/#pricing)  | -        | [Yes](https://shadcnstudio.com/mcp)    |
-| shadcn/ui        | React     | <https://github.com/shadcn-ui/ui>                  | <https://ui.shadcn.com>                 | -                                         | Top 3    | [Yes](https://ui.shadcn.com/docs/mcp)  |
-| shadcn/ui Blocks | React     | <https://github.com/akash3444/shadcn-ui-blocks>    | <https://www.shadcnui-blocks.com>       | [Yes](https://pro.shadcnui-blocks.com)    | Top 5    | -                                      |
-| shadcn/ui Kit    | React     | <https://github.com/bundui>                        | <https://shadcnuikit.com>               | [Yes](https://shadcnuikit.com/pricing)    | -        | -                                      |
-| Spectrum         | React     | <https://github.com/arihantcodes/spectrum-ui>      | <https://ui.spectrumhq.in>              | -                                         | -        | -                                      |
-| tremor           | React     | <https://github.com/tremorlabs/tremor>             | <https://tremor.so>                     | -                                         | -        | -                                      |
-| Untitled         | React     | <https://github.com/untitleduico>                  | <https://www.untitledui.com>            | [Yes](https://www.untitledui.com/pricing) | Top 5    | -                                      |
+| Name             | Framework | Repository                                         | Website                                 | PRO                                         | Favorite | MCP                                    |
+| ---------------- | --------- | -------------------------------------------------- | --------------------------------------- | ------------------------------------------- | -------- | -------------------------------------- |
+| 8bitcn           | React     | <https://github.com/TheOrcDev/8bitcn-ui>           | <https://www.8bitcn.com>                | -                                           | -        | -                                      |
+| 9ui              | React     | <https://github.com/borabaloglu/9ui>               | <https://www.9ui.dev>                   | -                                           | Top 3    | -                                      |
+| Aceternity       | React     | -                                                  | <https://ui.aceternity.com>             | [Yes](https://pro.aceternity.com)           | Top 2    | -                                      |
+| Alignui          | React     | <https://github.com/alignui>                       | <https://www.alignui.com>               | [Yes](https://pro.alignui.com)              | Top 5    | -                                      |
+| Animate          | React     | <https://github.com/imskyleen/animate-ui>          | <https://animate-ui.com>                | -                                           | Top 2    | [Yes](https://animate-ui.com/docs/mcp) |
+| Base             | React     | <https://github.com/akash3444/basecn>              | <https://basecn.dev>                    | -                                           | -        | -                                      |
+| dotUI            | React     | <https://github.com/mehdibha/dotUI>                | <https://dotui.org>                     | -                                           | Top 3    | -                                      |
+| Hese             | React     | <https://github.com/preetsuthar17/HeseUI>          | -                                       | -                                           | -        | -                                      |
+| Hexta            | React     | <https://github.com/preetsuthar17/HextaUI>         | <https://hextaui.com>                   | [Yes](https://pro.hextaui.com/blocks)       | -        | -                                      |
+| JollyUI          | React     | <https://github.com/jolbol1/jolly-ui>              | <https://www.jollyui.dev>               | -                                           | -        | -                                      |
+| Magic            | React     | <https://github.com/magicuidesign/magicui>         | <https://magicui.design>                | -                                           | Top 2    | [Yes](https://magicui.design/docs/mcp) |
+| Origin           | React     | <https://github.com/cosscom/coss>                  | <https://coss.com/origin>               | -                                           | -        | -                                      |
+| preline          | Multiple  | <https://github.com/htmlstreamofficial/preline>    | <https://preline.co>                    | [Yes](https://preline.co/pro)               | Top 6    | -                                      |
+| RetroUI          | React     | <https://github.com/Logging-Stuff/retroui>         | <https://www.retroui.dev>               | [Yes](https://pro.retroui.dev)              | -        | -                                      |
+| REUI             | React     | <https://github.com/keenthemes/reui>               | <https://reui.io>                       | -                                           | -        | -                                      |
+| shacdn/ui-blocks | React     | <https://github.com/shadcnblocks/shadcn-ui-blocks> | <https://www.shadcnblocks.com>          | [Yes](https://www.shadcnblocks.com/pricing) | -        | -                                      |
+| Shadcn Space     | React     | <https://github.com/shadcnspace/shadcnspace>       | <https://shadcnspace.com/>              | [Yes](https://shadcnspace.com/pricing)      | -        | -                                      |
+| shadcn Store     | React     | -                                                  | <https://shadcnstore.com>               | [Yes](https://shadcnstore.com/pricing)      | -        | -                                      |
+| shadcn-admin-kit | React     | <https://github.com/marmelab/shadcn-admin-kit>     | <https://marmelab.com/shadcn-admin-kit> | -                                           | -        | -                                      |
+| shadcn/studio    | React     | <https://github.com/themeselection/shadcn-studio>  | <https://shadcnstudio.com>              | [Yes](https://shadcnstudio.com/#pricing)    | -        | [Yes](https://shadcnstudio.com/mcp)    |
+| shadcn/ui        | React     | <https://github.com/shadcn-ui/ui>                  | <https://ui.shadcn.com>                 | -                                           | Top 3    | [Yes](https://ui.shadcn.com/docs/mcp)  |
+| shadcn/ui Blocks | React     | <https://github.com/akash3444/shadcn-ui-blocks>    | <https://www.shadcnui-blocks.com>       | [Yes](https://pro.shadcnui-blocks.com)      | Top 5    | -                                      |
+| shadcn/ui Kit    | React     | <https://github.com/bundui>                        | <https://shadcnuikit.com>               | [Yes](https://shadcnuikit.com/pricing)      | -        | -                                      |
+| Spectrum         | React     | <https://github.com/arihantcodes/spectrum-ui>      | <https://ui.spectrumhq.in>              | -                                           | -        | -                                      |
+| tremor           | React     | <https://github.com/tremorlabs/tremor>             | <https://tremor.so>                     | -                                           | -        | -                                      |
+| Untitled         | React     | <https://github.com/untitleduico>                  | <https://www.untitledui.com>            | [Yes](https://www.untitledui.com/pricing)   | Top 5    | -                                      |
 
 ## UI Libraries
 
@@ -226,8 +228,9 @@ List of curated UI libraries, templates and inspirations
 | K8S UI                | React     | <https://github.com/PRO-Robotech/openapi-ui>                               | -                                       | -                                         | -        | -   |
 | Next Shadcn Dashboard | React     | <https://github.com/Kiranism/next-shadcn-dashboard-starter>                | -                                       | -                                         | -        | -   |
 | Shadboard             | React     | <https://github.com/Qualiora/shadboard>                                    | <https://shadboard.vercel.app/>         | -                                         | -        | -   |
-| Shadcn Admin          | React     | <https://github.com/satnaing/shadcn-admin>                                 | -                                       | -                                         | -        | -   |
+| Shadcn Admin          | React     | <https://github.com/satnaing/shadcn-admin>                                 | <https://shadcn-admin.netlify.app>      | -                                         | -        | -   |
 | shadcn-admin-kit      | React     | <https://github.com/marmelab/shadcn-admin-kit>                             | <https://marmelab.com/shadcn-admin-kit> | -                                         | -        | -   |
+| Square UI Pro         | React     | -                                                                          | <https://pro.lndev.me>                  | Yes                                       | -        |     |
 | Tabler                | HTML5     | <https://github.com/tabler/tabler>                                         | <https://tabler.io/admin-template>      | -                                         | -        | -   |
 | TailAdmin             | Multiple  | <https://github.com/TailAdmin>                                             | <https://tailadmin.com>                 | [Yes](https://tailadmin.com/pricing)      | -        | -   |
 | Tailwindadmin         | Multiple  | <https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template> | <https://tailwind-admin.com/>           | [Yes](https://tailwind-admin.com/pricing) | -        | -   |
