@@ -303,6 +303,8 @@ List of curated UI libraries, templates and inspirations
 - <https://github.com/nexu-io/open-design>
 - <https://github.com/VoltAgent/awesome-design-md>, <https://getdesign.md>
 - <https://vibedsgn.com>
+- <https://www.mcpcmd.com/categories/design>
+- <https://www.pencil.dev>
 
 ---
 
