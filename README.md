@@ -276,9 +276,11 @@ List of curated UI libraries, templates and inspirations
 
 | Name                  | Repository                                                | Website                                                      | PRO | Favorite |
 | --------------------- | --------------------------------------------------------- | ------------------------------------------------------------ | --- | -------- |
+| _Frontend Design_     | <https://github.com/anthropics/skills>                    | -                                                            | -   | -        |
+| _Landing_             | <https://github.com/alirezarezvani/claude-skills>         | -                                                            | -   | -        |
 | `DESIGN.md`           | <https://github.com/google-labs-code/design.md>           | <https://stitch.withgoogle.com/docs/design-md/specification> | -   | -        |
+| anydesign             | <https://github.com/uxKero/anydesign>                     | -                                                            | -   | -        |
 | awesome-design-skills | <https://github.com/bergside/awesome-design-skills>       | <https://www.typeui.sh/design-skills>                        | -   | -        |
-| Frontend Design       | <https://github.com/anthropics/skills>                    | -                                                            | -   | -        |
 | Hallmark              | <https://github.com/Nutlope/hallmark>                     | <https://www.usehallmark.com>                                | -   | -        |
 | Lazyweb               | <https://github.com/aboul3ata/lazyweb-skill>              | -                                                            | -   | -        |
 | mbs-skills            | <https://github.com/madebyshun/mbs-skills>                | -                                                            | -   | -        |
@@ -299,6 +301,7 @@ List of curated UI libraries, templates and inspirations
 
 - <https://developers.openai.com/blog/designing-delightful-frontends-with-gpt-5-4>
 - <https://github.com/nexu-io/open-design>
+- <https://github.com/VoltAgent/awesome-design-md>, <https://getdesign.md>
 - <https://vibedsgn.com>
 
 ---
