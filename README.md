@@ -34,6 +34,7 @@ List of curated UI libraries, templates and inspirations
 - [Templates](#templates)
 - [Styling](#styling)
 - [UI Designs](#ui-designs)
+- [AI](#ai)
 
 ## Inspiration websites
 
@@ -262,12 +263,43 @@ List of curated UI libraries, templates and inspirations
 | Shadcn Design | -          | <https://www.shadcndesign.com> | [Yes](https://www.shadcndesign.com/pricing) | -        |
 | shadcraft     | -          | <https://shadcraft.com>        | [Yes](https://shadcraft.com/pricing)        | -        |
 
-### AI UI & Website Prompts
+### AI
+
+#### UI & Website Prompts
 
 | Name         | Repository | Website                   | PRO | Favorite |
 | ------------ | ---------- | ------------------------- | --- | -------- |
 | DesignRocket |            | <https://designrocket.io> | YES | -        |
 | Motion Sites |            | <https://motionsites.ai>  | -   | -        |
+
+#### Skills
+
+| Name                  | Repository                                                | Website                                                      | PRO | Favorite |
+| --------------------- | --------------------------------------------------------- | ------------------------------------------------------------ | --- | -------- |
+| `DESIGN.md`           | <https://github.com/google-labs-code/design.md>           | <https://stitch.withgoogle.com/docs/design-md/specification> | -   | -        |
+| awesome-design-skills | <https://github.com/bergside/awesome-design-skills>       | <https://www.typeui.sh/design-skills>                        | -   | -        |
+| Frontend Design       | <https://github.com/anthropics/skills>                    | -                                                            | -   | -        |
+| Hallmark              | <https://github.com/Nutlope/hallmark>                     | <https://www.usehallmark.com>                                | -   | -        |
+| Lazyweb               | <https://github.com/aboul3ata/lazyweb-skill>              | -                                                            | -   | -        |
+| mbs-skills            | <https://github.com/madebyshun/mbs-skills>                | -                                                            | -   | -        |
+| Mobbin UI             | <https://github.com/ddruids/mobbin-skill>                 | -                                                            | -   | -        |
+| parhamb-design-skills | <https://github.com/parhamb/design-skills>                | -                                                            | -   | -        |
+| Tambo AI              | <https://github.com/tambo-ai/tambo>                       | <https://tambo.co>                                           | -   | -        |
+| Taste Skill           | <https://github.com/Leonxlnx/taste-skill>                 | <https://www.tasteskill.dev>                                 | -   | -        |
+| UI UX Pro Max         | <https://github.com/nextlevelbuilder/ui-ux-pro-max-skill> | <https://www.uupm.cc>                                        | -   | -        |
+
+#### MCP
+
+| Name       | Repository                               | Website                              | PRO | Favorite |
+| ---------- | ---------------------------------------- | ------------------------------------ | --- | -------- |
+| AIDesigner |                                          | <https://www.aidesigner.ai/docs/mcp> | YES | -        |
+| OpenDesign | <https://github.com/nexu-io/open-design> | <https://open-design.ai>             | -   | -        |
+
+#### Resources
+
+- <https://developers.openai.com/blog/designing-delightful-frontends-with-gpt-5-4>
+- <https://github.com/nexu-io/open-design>
+- <https://vibedsgn.com>
 
 ---
 
