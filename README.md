@@ -105,6 +105,7 @@ List of curated UI libraries, templates and inspirations
 | SolaceUI          | Blocks       | React        | -                                                 | <https://www.solaceui.com>           | -                                            | -        | -                                              |
 | Supabase UI       | Mixed        | React        | -                                                 | <https://supabase.com/ui>            | -                                            | -        | -                                              |
 | Tailark           | Blocks       | React        | <https://github.com/tailark/blocks>               | <https://tailark.com>                | [Yes](https://pro.tailark.com)               | -        | -                                              |
+| UI SFX            | Sound        | Multiple     | <https://github.com/romainsimon/uisfx>            | <https://uisfx.com>                  | -                                            | -        | -                                              |
 | visual-effect     | Animation    | React        | <https://github.com/kitlangton/visual-effect>     | <https://effect.kitlangton.com>      | -                                            | -        | -                                              |
 | XD UI             | AI           | React        | <https://github.com/suraj-xd/XD-UI-Library>       | <https://ui.surajgaud.com>           | -                                            | -        | -                                              |
 
