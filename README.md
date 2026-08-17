@@ -120,6 +120,7 @@ List of curated UI libraries, templates and inspirations
 | Flowbite    | Multiple  | <https://github.com/themesberg/flowbite>              | <https://flowbite.com>    | -                                    | -        | -   |
 | Tailgrids   | Multiple  | <https://github.com/TailGrids/tailwind-ui-components> | <https://tailgrids.com>   | [Yes](https://tailgrids.com/pricing) | -        | -   |
 | TW Elements | Multiple  | <https://github.com/mdbootstrap/TW-Elements>          | <https://tw-elements.com> | [Yes](https://tw-elements.com/pro)   | -        | -   |
+| Radian UI   | React     | <https://github.com/Radian-os/radianui>               | <https://radianui.com>    | -                                    | -        | -   |
 
 ## UI Shadcn
 
