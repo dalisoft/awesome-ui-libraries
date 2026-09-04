@@ -66,6 +66,7 @@ List of curated UI libraries, templates and inspirations
 
 | Name              | Kind         | Framework    | Repository                                        | Website                              | PRO                                          | Favorite | MCP                                            |
 | ----------------- | ------------ | ------------ | ------------------------------------------------- | ------------------------------------ | -------------------------------------------- | -------- | ---------------------------------------------- |
+| AI Canvas         | Mixed        | React        | <https://github.com/uiNerd16/aicanvas>            | <https://aicanvas.me>                | [Yes](https://aicanvas.me/pricing)           | -        | [Yes](https://www.npmjs.com/package/@aicanvas/mcp) |
 | AI Elements       | AI           | React        | <https://github.com/vercel/ai-elements>           | <https://ai-sdk.dev/elements>        | -                                            | -        | -                                              |
 | assistant-ui      | AI           | React        | <https://github.com/assistant-ui/assistant-ui>    | <https://www.assistant-ui.com>       | -                                            | -        | -                                              |
 | Badtzui           | Mixed        | React        | <https://github.com/badtzx0/badtz-ui>             | <https://www.badtz-ui.com>           | [Yes](https://pro.badtz-ui.com)              | -        | -                                              |
