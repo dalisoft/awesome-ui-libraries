@@ -56,6 +56,7 @@ List of curated UI libraries, templates and inspirations
 | Mobbin            |            | <https://mobbin.com>                       |          |
 | One Page Love     |            | <https://onepagelove.com>                  |          |
 | Page Flows        |            | <https://pageflows.com>                    |          |
+| Pixlpin           |            | <https://pixlpin.com>                      |          |
 | Site of Sites     |            | <https://www.siteofsites.co>               |          |
 | SiteInspire       |            | <https://www.siteinspire.com>              |          |
 | The FWA           |            | <https://thefwa.com>                       |          |
