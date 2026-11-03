@@ -1,0 +1,16 @@
+[global]
+extend-enable = [ "MD060", "MD075" ]
+disable = [ "MD013", "MD033" ]
+
+[MD033]
+enabled = false
+allowed-elements = [ "a", "img", "sup" ]
+
+[MD060]
+enabled = true
+style = "aligned-no-space"
+
+[MD096]
+enabled = true
+column = "Name"
+order = "asc"
