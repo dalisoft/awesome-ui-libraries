@@ -39,7 +39,7 @@ List of curated UI libraries, templates and inspirations
 ## Inspiration websites
 
 | Name              | Repository | Website                                    | Favorite |
-| ----------------- | ---------- | ------------------------------------------ | -------- |
+|-------------------|------------|--------------------------------------------|----------|
 | Awwwards          |            | <https://www.awwwards.com/websites>        |          |
 | Best Design on X  |            | <https://bestdesignsonx.com>               |          |
 | Best Website      |            | <https://bestwebsite.gallery>              |          |
@@ -66,7 +66,7 @@ List of curated UI libraries, templates and inspirations
 ## Components
 
 | Name              | Kind         | Framework    | Repository                                        | Website                                   | PRO                                          | Favorite | MCP                                            |
-| ----------------- | ------------ | ------------ | ------------------------------------------------- | ----------------------------------------- | -------------------------------------------- | -------- | ---------------------------------------------- |
+|-------------------|--------------|--------------|---------------------------------------------------|-------------------------------------------|----------------------------------------------|----------|------------------------------------------------|
 | AI Canvas         | Mixed        | React        | <https://github.com/uiNerd16/aicanvas>            | <https://aicanvas.me>                     | [Yes](https://aicanvas.me/pricing)           | -        | [Yes](https://npmjs.com/package/@aicanvas/mcp) |
 | AI Elements       | AI           | React        | <https://github.com/vercel/ai-elements>           | <https://ai-sdk.dev/elements>             | -                                            | -        | -                                              |
 | assistant-ui      | AI           | React        | <https://github.com/assistant-ui/assistant-ui>    | <https://www.assistant-ui.com>            | -                                            | -        | -                                              |
@@ -75,7 +75,7 @@ List of curated UI libraries, templates and inspirations
 | BlitzCharts       | Charts       | React        | <https://github.com/Partharora383/Blitzcharts>    | <https://blitz-charts.vercel.app>         | -                                            | -        | -                                              |
 | blocks            | Blocks       | React        | <https://github.com/ephraimduncan/blocks>         | <https://blocks.so>                       | -                                            | -        | -                                              |
 | Chanhdai          | -            | React        | <https://github.com/ncdai/chanhdai.com>           | <https://chanhdai.com/components>         | -                                            | -        | -                                              |
-| Codrops           | Mixed        | Multiple     |                                                   | <https://tympanus.net/codrops/demos>      | -                                            | -        | -                                              |
+| Codrops           | Mixed        | Multiple     | -                                                 | <https://tympanus.net/codrops/demos>      | -                                            | -        | -                                              |
 | CopilotKit        | AI           | React        | <https://github.com/CopilotKit/CopilotKit>        | <https://www.copilotkit.ai>               | -                                            | -        | -                                              |
 | cult ui           | Mixed        | React        | <https://github.com/nolly-studio/cult-ui>         | <https://www.cult-ui.com>                 | -                                            | -        | [Yes](https://www.cult-ui.com/docs/mcp-server) |
 | Dice              | Mixed        | React        | <https://github.com/sadmann7/diceui>              | <https://www.diceui.com>                  | -                                            | -        | -                                              |
@@ -118,7 +118,7 @@ List of curated UI libraries, templates and inspirations
 - Only **official MCP** are allowed and included
 
 | Name        | Framework | Repository                                            | Website                   | PRO                                  | Favorite | MCP |
-| ----------- | --------- | ----------------------------------------------------- | ------------------------- | ------------------------------------ | -------- | --- |
+|-------------|-----------|-------------------------------------------------------|---------------------------|--------------------------------------|----------|-----|
 | Float UI    | Multiple  | <https://github.com/MarsX-dev/floatui>                | <https://floatui.com>     | -                                    | -        | -   |
 | Flowbite    | Multiple  | <https://github.com/themesberg/flowbite>              | <https://flowbite.com>    | -                                    | -        | -   |
 | Tailgrids   | Multiple  | <https://github.com/TailGrids/tailwind-ui-components> | <https://tailgrids.com>   | [Yes](https://tailgrids.com/pricing) | -        | -   |
@@ -130,7 +130,7 @@ List of curated UI libraries, templates and inspirations
 - Only **official MCP** are allowed and included
 
 | Name             | Framework | Repository                                           | Website                                 | PRO                                         | Favorite | MCP                                    |
-| ---------------- | --------- | ---------------------------------------------------- | --------------------------------------- | ------------------------------------------- | -------- | -------------------------------------- |
+|------------------|-----------|------------------------------------------------------|-----------------------------------------|---------------------------------------------|----------|----------------------------------------|
 | 8bitcn           | React     | <https://github.com/TheOrcDev/8bitcn-ui>             | <https://www.8bitcn.com>                | -                                           | -        | -                                      |
 | 9ui              | React     | <https://github.com/borabaloglu/9ui>                 | <https://www.9ui.dev>                   | -                                           | Top 3    | -                                      |
 | Aceternity       | React     | -                                                    | <https://ui.aceternity.com>             | [Yes](https://pro.aceternity.com)           | Top 2    | -                                      |
@@ -148,6 +148,7 @@ List of curated UI libraries, templates and inspirations
 | RetroUI          | React     | <https://github.com/Logging-Stuff/retroui>           | <https://www.retroui.dev>               | [Yes](https://pro.retroui.dev)              | -        | -                                      |
 | REUI             | React     | <https://github.com/keenthemes/reui>                 | <https://reui.io>                       | [Pro](https://pro.reui.io)                  | -        | -                                      |
 | shacdn/ui-blocks | React     | <https://github.com/shadcnblocks/shadcn-ui-blocks>   | <https://www.shadcnblocks.com>          | [Yes](https://www.shadcnblocks.com/pricing) | -        | -                                      |
+| Shadcn Dashboard | React     | <https://github.com/shadcndashboard/shadcndashboard> | <https://shadcndashboard.dev/>          | [Yes](https://shadcndashboard.dev/pricing)  | -        | [Yes](https://shadcndashboard.dev/mcp) |
 | Shadcn Space     | React     | <https://github.com/shadcnspace/shadcnspace>         | <https://shadcnspace.com/>              | [Yes](https://shadcnspace.com/pricing)      | -        | -                                      |
 | shadcn Store     | React     | -                                                    | <https://shadcnstore.com>               | [Yes](https://shadcnstore.com/pricing)      | -        | -                                      |
 | shadcn-admin-kit | React     | <https://github.com/marmelab/shadcn-admin-kit>       | <https://marmelab.com/shadcn-admin-kit> | -                                           | -        | -                                      |
@@ -158,57 +159,56 @@ List of curated UI libraries, templates and inspirations
 | Spectrum         | React     | <https://github.com/arihantcodes/spectrum-ui>        | <https://ui.spectrumhq.in>              | -                                           | -        | -                                      |
 | tremor           | React     | <https://github.com/tremorlabs/tremor>               | <https://tremor.so>                     | -                                           | -        | -                                      |
 | Untitled         | React     | <https://github.com/untitleduico>                    | <https://www.untitledui.com>            | [Yes](https://www.untitledui.com/pricing)   | Top 5    | -                                      |
-| Shadcn Dashboard | React     | <https://github.com/shadcndashboard/shadcndashboard> | <https://shadcndashboard.dev/>          | [Yes](https://shadcndashboard.dev/pricing)  | -        | [Yes](https://shadcndashboard.dev/mcp) |
 
 ## UI Libraries
 
 - I prefer React UI components but others are good too, feel free to create PR
 - Only **official MCP** are allowed and included
 
-| Name             | Framework    | Repository                                        | Website                                               | PRO                                                    | Favorite | MCP                                                                |
-| ---------------- | ------------ | ------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------ | -------- | ------------------------------------------------------------------ |
-| Ant-Design       | React        | <https://github.com/ant-design/ant-design>        | <https://ant.design>                                  | -                                                      | -        | -                                                                  |
-| Ariakit          | React        | <https://github.com/ariakit/ariakit>              | <https://ariakit.org>                                 | [Yes](https://ariakit.org/plus)                        | Top 6    | -                                                                  |
-| ARK              | Multiple     | <https://github.com/chakra-ui/ark>                | <https://ark-ui.com>                                  | [Yes](https://ark-ui.com/plus)                         | Top 5    | -                                                                  |
-| Base             | React        | <https://github.com/mui/base-ui>                  | <https://base-ui.com>                                 | -                                                      | Top 5    | -                                                                  |
-| Baseweb          | React        | <https://github.com/uber/baseweb>                 | <https://baseweb.design>                              | -                                                      | -        | -                                                                  |
-| Blueprint        | React        | <https://github.com/palantir/blueprint>           | <https://blueprintjs.com>                             | -                                                      | -        | -                                                                  |
-| Bootstrap        | HTML5+JS     | <https://github.com/twbs/bootstrap>               | <https://getbootstrap.com>                            | -                                                      | -        | -                                                                  |
-| Bulma            | HTML5+CSS    | <https://github.com/jgthms/bulma>                 | <https://bulma.io>                                    | -                                                      | Top 5    | -                                                                  |
-| Carbon           | React        | <https://github.com/carbon-design-system/carbon>  | <https://carbondesignsystem.com>                      | -                                                      | -        | -                                                                  |
-| chakra           | React        | <https://github.com/chakra-ui/chakra-ui>          | <https://chakra-ui.com>                               | [Yes](https://pro.chakra-ui.com)                       | Top 5    | [Yes](https://chakra-ui.com/docs/get-started/ai/mcp-server)        |
-| Core             | Multiple     | <https://github.com/coreui/coreui>                | <https://coreui.io/bootstrap/docs/getting-started>    | [Yes](https://coreui.io/pricing/?framework=react)      | -        | -                                                                  |
-| daisyUI          | Multiple     | <https://github.com/saadeghi/daisyui>             | <https://daisyui.com>                                 | -                                                      | -        | [Yes](https://daisyui.com/docs/editor/claude)                      |
-| Evergreen ⛔️     | React        | <https://github.com/segmentio/evergreen>          | -                                                     | -                                                      | -        | -                                                                  |
-| Fluent           | React        | <https://github.com/microsoft/fluentui>           | <https://react.fluentui.dev>                          | -                                                      | -        | -                                                                  |
-| FlyonUI          | Multiple     | <https://github.com/themeselection/flyonui>       | <https://flyonui.com>                                 | -                                                      | -        | -                                                                  |
-| Franken          | HTML5        | <https://github.com/franken-ui/ui>                | <https://franken-ui.dev>                              | -                                                      | -        | -                                                                  |
-| Geist ⛔️         | React        | <https://github.com/geist-org/geist-ui>           | <https://geist-ui.dev>                                | -                                                      | -        | -                                                                  |
-| gluestack-ui     | React Native | <https://github.com/gluestack/gluestack-ui>       | <https://gluestack.io>                                | -                                                      | Top 5    | [Yes](https://github.com/gluestack/mcp)                            |
-| GPUI Kit         | Rust         | <https://github.com/longbridge/gpui-kit>          | <https://gpui-kit.com>                                | -                                                      | -        | -                                                                  |
-| GPUIX            | React        | <https://github.com/remorses/gpuix>               | -                                                     | -                                                      | -        | -                                                                  |
-| grommet          | React        | <https://github.com/grommet/grommet>              | <https://v2.grommet.io>                               | -                                                      |          | -                                                                  |
-| headlessUI       | React/Vue    | <https://github.com/tailwindlabs/headlessui>      | <https://headlessui.com>                              | -                                                      | -        | -                                                                  |
-| Hero             | React        | <https://github.com/heroui-inc/heroui>            | <https://www.heroui.com>                              | [Yes](https://www.heroui.pro)                          | Top 2    | [Yes](https://v3.heroui.com/docs/react/getting-started/mcp-server) |
-| Hyper            | HTML5        | <https://github.com/markmead/hyperui>             | <https://www.hyperui.dev>                             | -                                                      | -        | -                                                                  |
-| Mantine          | React        | <https://github.com/mantinedev/mantine>           | <https://mantine.dev>                                 | -                                                      | Top 5    | -                                                                  |
-| Mdb-React-Ui-Kit | React        | <https://github.com/mdbootstrap/mdb-react-ui-kit> | <https://mdbootstrap.com>                             | [Yes](https://mdbootstrap.com/pro)                     | -        | -                                                                  |
-| moduix           | Multiple     | <https://github.com/Blinks44/moduix>              | <https://moduix.dev>                                  | -                                                      | -        | -                                                                  |
-| MUI Material     | React        | <https://github.com/mui/material-ui>              | <https://mui.com/material-ui>                         | -                                                      | -        | [Yes](https://mui.com/material-ui/getting-started/mcp)             |
-| PARK             | Multiple     | <https://github.com/cschroeter/park-ui>           | <https://park-ui.com>                                 | -                                                      | -        | -                                                                  |
-| Paste            | React        | <https://github.com/twilio-labs/paste>            | <https://paste.twilio.design>                         | -                                                      | -        | -                                                                  |
-| PatternFly       | React        | <https://github.com/patternfly/patternfly>        | <https://www.patternfly.org>                          | -                                                      | -        | -                                                                  |
-| Primer           | React        | <https://github.com/primer/react>                 | <https://primer.style>                                | -                                                      | -        | -                                                                  |
-| PRIMEReact       | React        | <https://github.com/primefaces/primereact>        | <https://primereact.org>                              | -                                                      | Top 5    | -                                                                  |
-| Radix Primitives | React        | <https://github.com/radix-ui/primitives>          | <https://www.radix-ui.com/primitives>                 | -                                                      | Top 1    | -                                                                  |
-| Radix Themes     | React        | <https://github.com/radix-ui/themes>              | <https://www.radix-ui.com/themes>                     | -                                                      | Top 1    | -                                                                  |
-| React Aria       | React        | <https://github.com/adobe/react-spectrum>         | <https://react-spectrum.adobe.com/react-aria>         | -                                                      |          | -                                                                  |
-| React Suite      | React        | <https://github.com/rsuite/rsuite>                | <https://rsuitejs.com>                                | -                                                      | -        | -                                                                  |
-| Ring             | React        | <https://github.com/JetBrains/ring-ui>            | <https://jetbrains.github.io/ring-ui>                 | -                                                      | -        | -                                                                  |
-| RizzUI           | React        | <https://github.com/rizzui/rizzui>                | <https://www.rizzui.com>                              | -                                                      | Top 6    | -                                                                  |
-| Shards ⛔️        | React        | <https://github.com/DesignRevision/shards-react>  | <https://designrevision.com/docs/shards-react>        | [Yes](https://designrevision.com/downloads/shards-pro) | -        | -                                                                  |
-| Shoelace         | Multiple     | <https://github.com/shoelace-style/shoelace>      | <https://webawesome.com>                              | -                                                      | Top 5    | -                                                                  |
-| TAMA GUI         | React        | <https://github.com/tamagui/tamagui>              | <https://tamagui.dev/ui/intro>                        | Yes                                                    | -        | -                                                                  |
+| Name             | Framework    | Repository                                        | Website                                            | PRO                                                    | Favorite | MCP                                                                |
+|------------------|--------------|---------------------------------------------------|----------------------------------------------------|--------------------------------------------------------|----------|--------------------------------------------------------------------|
+| Ant-Design       | React        | <https://github.com/ant-design/ant-design>        | <https://ant.design>                               | -                                                      | -        | -                                                                  |
+| Ariakit          | React        | <https://github.com/ariakit/ariakit>              | <https://ariakit.org>                              | [Yes](https://ariakit.org/plus)                        | Top 6    | -                                                                  |
+| ARK              | Multiple     | <https://github.com/chakra-ui/ark>                | <https://ark-ui.com>                               | [Yes](https://ark-ui.com/plus)                         | Top 5    | -                                                                  |
+| Base             | React        | <https://github.com/mui/base-ui>                  | <https://base-ui.com>                              | -                                                      | Top 5    | -                                                                  |
+| Baseweb          | React        | <https://github.com/uber/baseweb>                 | <https://baseweb.design>                           | -                                                      | -        | -                                                                  |
+| Blueprint        | React        | <https://github.com/palantir/blueprint>           | <https://blueprintjs.com>                          | -                                                      | -        | -                                                                  |
+| Bootstrap        | HTML5+JS     | <https://github.com/twbs/bootstrap>               | <https://getbootstrap.com>                         | -                                                      | -        | -                                                                  |
+| Bulma            | HTML5+CSS    | <https://github.com/jgthms/bulma>                 | <https://bulma.io>                                 | -                                                      | Top 5    | -                                                                  |
+| Carbon           | React        | <https://github.com/carbon-design-system/carbon>  | <https://carbondesignsystem.com>                   | -                                                      | -        | -                                                                  |
+| chakra           | React        | <https://github.com/chakra-ui/chakra-ui>          | <https://chakra-ui.com>                            | [Yes](https://pro.chakra-ui.com)                       | Top 5    | [Yes](https://chakra-ui.com/docs/get-started/ai/mcp-server)        |
+| Core             | Multiple     | <https://github.com/coreui/coreui>                | <https://coreui.io/bootstrap/docs/getting-started> | [Yes](https://coreui.io/pricing/?framework=react)      | -        | -                                                                  |
+| daisyUI          | Multiple     | <https://github.com/saadeghi/daisyui>             | <https://daisyui.com>                              | -                                                      | -        | [Yes](https://daisyui.com/docs/editor/claude)                      |
+| Evergreen ⛔️     | React        | <https://github.com/segmentio/evergreen>          | -                                                  | -                                                      | -        | -                                                                  |
+| Fluent           | React        | <https://github.com/microsoft/fluentui>           | <https://react.fluentui.dev>                       | -                                                      | -        | -                                                                  |
+| FlyonUI          | Multiple     | <https://github.com/themeselection/flyonui>       | <https://flyonui.com>                              | -                                                      | -        | -                                                                  |
+| Franken          | HTML5        | <https://github.com/franken-ui/ui>                | <https://franken-ui.dev>                           | -                                                      | -        | -                                                                  |
+| Geist ⛔️         | React        | <https://github.com/geist-org/geist-ui>           | <https://geist-ui.dev>                             | -                                                      | -        | -                                                                  |
+| gluestack-ui     | React Native | <https://github.com/gluestack/gluestack-ui>       | <https://gluestack.io>                             | -                                                      | Top 5    | [Yes](https://github.com/gluestack/mcp)                            |
+| GPUI Kit         | Rust         | <https://github.com/longbridge/gpui-kit>          | <https://gpui-kit.com>                             | -                                                      | -        | -                                                                  |
+| GPUIX            | React        | <https://github.com/remorses/gpuix>               | -                                                  | -                                                      | -        | -                                                                  |
+| grommet          | React        | <https://github.com/grommet/grommet>              | <https://v2.grommet.io>                            | -                                                      |          | -                                                                  |
+| headlessUI       | React/Vue    | <https://github.com/tailwindlabs/headlessui>      | <https://headlessui.com>                           | -                                                      | -        | -                                                                  |
+| Hero             | React        | <https://github.com/heroui-inc/heroui>            | <https://www.heroui.com>                           | [Yes](https://www.heroui.pro)                          | Top 2    | [Yes](https://v3.heroui.com/docs/react/getting-started/mcp-server) |
+| Hyper            | HTML5        | <https://github.com/markmead/hyperui>             | <https://www.hyperui.dev>                          | -                                                      | -        | -                                                                  |
+| Mantine          | React        | <https://github.com/mantinedev/mantine>           | <https://mantine.dev>                              | -                                                      | Top 5    | -                                                                  |
+| Mdb-React-Ui-Kit | React        | <https://github.com/mdbootstrap/mdb-react-ui-kit> | <https://mdbootstrap.com>                          | [Yes](https://mdbootstrap.com/pro)                     | -        | -                                                                  |
+| moduix           | Multiple     | <https://github.com/Blinks44/moduix>              | <https://moduix.dev>                               | -                                                      | -        | -                                                                  |
+| MUI Material     | React        | <https://github.com/mui/material-ui>              | <https://mui.com/material-ui>                      | -                                                      | -        | [Yes](https://mui.com/material-ui/getting-started/mcp)             |
+| PARK             | Multiple     | <https://github.com/cschroeter/park-ui>           | <https://park-ui.com>                              | -                                                      | -        | -                                                                  |
+| Paste            | React        | <https://github.com/twilio-labs/paste>            | <https://paste.twilio.design>                      | -                                                      | -        | -                                                                  |
+| PatternFly       | React        | <https://github.com/patternfly/patternfly>        | <https://www.patternfly.org>                       | -                                                      | -        | -                                                                  |
+| Primer           | React        | <https://github.com/primer/react>                 | <https://primer.style>                             | -                                                      | -        | -                                                                  |
+| PRIMEReact       | React        | <https://github.com/primefaces/primereact>        | <https://primereact.org>                           | -                                                      | Top 5    | -                                                                  |
+| Radix Primitives | React        | <https://github.com/radix-ui/primitives>          | <https://www.radix-ui.com/primitives>              | -                                                      | Top 1    | -                                                                  |
+| Radix Themes     | React        | <https://github.com/radix-ui/themes>              | <https://www.radix-ui.com/themes>                  | -                                                      | Top 1    | -                                                                  |
+| React Aria       | React        | <https://github.com/adobe/react-spectrum>         | <https://react-spectrum.adobe.com/react-aria>      | -                                                      |          | -                                                                  |
+| React Suite      | React        | <https://github.com/rsuite/rsuite>                | <https://rsuitejs.com>                             | -                                                      | -        | -                                                                  |
+| Ring             | React        | <https://github.com/JetBrains/ring-ui>            | <https://jetbrains.github.io/ring-ui>              | -                                                      | -        | -                                                                  |
+| RizzUI           | React        | <https://github.com/rizzui/rizzui>                | <https://www.rizzui.com>                           | -                                                      | Top 6    | -                                                                  |
+| Shards ⛔️        | React        | <https://github.com/DesignRevision/shards-react>  | <https://designrevision.com/docs/shards-react>     | [Yes](https://designrevision.com/downloads/shards-pro) | -        | -                                                                  |
+| Shoelace         | Multiple     | <https://github.com/shoelace-style/shoelace>      | <https://webawesome.com>                           | -                                                      | Top 5    | -                                                                  |
+| TAMA GUI         | React        | <https://github.com/tamagui/tamagui>              | <https://tamagui.dev/ui/intro>                     | Yes                                                    | -        | -                                                                  |
 
 ## Collections
 
@@ -233,7 +233,7 @@ List of curated UI libraries, templates and inspirations
 ### Dashboards
 
 | Name                  | Framework | Repository                                                                 | Website                                 | PRO                                       | Favorite | MCP |
-| --------------------- | --------- | -------------------------------------------------------------------------- | --------------------------------------- | ----------------------------------------- | -------- | --- |
+|-----------------------|-----------|----------------------------------------------------------------------------|-----------------------------------------|-------------------------------------------|----------|-----|
 | Admin Dashboard       | React     | <https://github.com/bundui/shadcn-admin-dashboard-free>                    | <https://shadcnuikit.com>               | [Yes](https://shadcnuikit.com/pricing)    | -        | -   |
 | Aniq-ui Marketplace   | -         | -                                                                          | <https://www.aniq-ui.com>               | -                                         | -        | -   |
 | Dashboard & Landing   | React     | <https://github.com/shadcnstore/shadcn-dashboard-landing-template>         | -                                       | -                                         | -        | -   |
@@ -252,7 +252,7 @@ List of curated UI libraries, templates and inspirations
 ### Other
 
 | Name           | Framework | Repository                                                      | Website                                               | PRO | Favorite | MCP |
-| -------------- | --------- | --------------------------------------------------------------- | ----------------------------------------------------- | --- | -------- | --- |
+|----------------|-----------|-----------------------------------------------------------------|-------------------------------------------------------|-----|----------|-----|
 | Fonttrio       | -         | <https://github.com/kapishdima/fonttrio>                        | <https://www.fonttrio.xyz>                            | -   | -        | -   |
 | Homeguardian   | React     | <https://github.com/akash3444/homeguardian-shadcn-landing-page> | <https://homeguardian-shadcn-landing-page.vercel.app> | -   | -        | -   |
 | Origin Layouts | React     | <https://github.com/origin-space/ui-experiments>                | <https://originui.com/layouts>                        | -   | -        | -   |
@@ -262,13 +262,13 @@ List of curated UI libraries, templates and inspirations
 ## Styling
 
 | Name    | Repository                           | Website               | PRO                                | Favorite | MCP |
-| ------- | ------------------------------------ | --------------------- | ---------------------------------- | -------- | --- |
+|---------|--------------------------------------|-----------------------|------------------------------------|----------|-----|
 | Tweakcn | <https://github.com/jnsahaj/tweakcn> | <https://tweakcn.com> | [Yes](https://tweakcn.com/pricing) | -        | -   |
 
 ## UI Designs
 
 | Name          | Repository | Website                        | PRO                                         | Favorite |
-| ------------- | ---------- | ------------------------------ | ------------------------------------------- | -------- |
+|---------------|------------|--------------------------------|---------------------------------------------|----------|
 | Shadcn Design | -          | <https://www.shadcndesign.com> | [Yes](https://www.shadcndesign.com/pricing) | -        |
 | shadcraft     | -          | <https://shadcraft.com>        | [Yes](https://shadcraft.com/pricing)        | -        |
 
@@ -277,20 +277,20 @@ List of curated UI libraries, templates and inspirations
 #### UI & Website Prompts
 
 | Name         | Repository | Website                   | PRO | Favorite |
-| ------------ | ---------- | ------------------------- | --- | -------- |
+|--------------|------------|---------------------------|-----|----------|
 | DesignRocket |            | <https://designrocket.io> | YES | -        |
 | Motion Sites |            | <https://motionsites.ai>  | -   | -        |
 
 #### Skills
 
 | Name                  | Repository                                                | Website                                                      | PRO | Favorite |
-| --------------------- | --------------------------------------------------------- | ------------------------------------------------------------ | --- | -------- |
-| _Frontend Design_     | <https://github.com/anthropics/skills>                    | -                                                            | -   | -        |
-| _Landing_             | <https://github.com/alirezarezvani/claude-skills>         | -                                                            | -   | -        |
-| `DESIGN.md`           | <https://github.com/google-labs-code/design.md>           | <https://stitch.withgoogle.com/docs/design-md/specification> | -   | -        |
+|-----------------------|-----------------------------------------------------------|--------------------------------------------------------------|-----|----------|
 | anydesign             | <https://github.com/uxKero/anydesign>                     | -                                                            | -   | -        |
 | awesome-design-skills | <https://github.com/bergside/awesome-design-skills>       | <https://www.typeui.sh/design-skills>                        | -   | -        |
+| `DESIGN.md`           | <https://github.com/google-labs-code/design.md>           | <https://stitch.withgoogle.com/docs/design-md/specification> | -   | -        |
+| _Frontend Design_     | <https://github.com/anthropics/skills>                    | -                                                            | -   | -        |
 | Hallmark              | <https://github.com/Nutlope/hallmark>                     | <https://www.usehallmark.com>                                | -   | -        |
+| _Landing_             | <https://github.com/alirezarezvani/claude-skills>         | -                                                            | -   | -        |
 | Lazyweb               | <https://github.com/aboul3ata/lazyweb-skill>              | -                                                            | -   | -        |
 | mbs-skills            | <https://github.com/madebyshun/mbs-skills>                | -                                                            | -   | -        |
 | Mobbin UI             | <https://github.com/ddruids/mobbin-skill>                 | -                                                            | -   | -        |
@@ -302,7 +302,7 @@ List of curated UI libraries, templates and inspirations
 #### MCP
 
 | Name       | Repository                               | Website                              | PRO | Favorite |
-| ---------- | ---------------------------------------- | ------------------------------------ | --- | -------- |
+|------------|------------------------------------------|--------------------------------------|-----|----------|
 | AIDesigner |                                          | <https://www.aidesigner.ai/docs/mcp> | YES | -        |
 | OpenDesign | <https://github.com/nexu-io/open-design> | <https://open-design.ai>             | -   | -        |
 
