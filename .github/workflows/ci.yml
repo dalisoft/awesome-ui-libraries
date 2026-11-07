@@ -34,7 +34,10 @@ jobs:
       - uses: actions/checkout@v7.0.1
         with:
           persist-credentials: false
-      # PR head (untrusted): data only, linted with the base config
+      # PR head (untrusted): data only, linted with the base config.
+      # Opting out of checkout's fork guard is safe here: the PR files are
+      # never executed and no credentials are persisted, so there is no
+      # "pwn request" surface. (https://gh.io/securely-using-pull_request_target)
       - if: github.event_name == 'pull_request_target'
         uses: actions/checkout@v7.0.1
         with:
@@ -42,6 +45,7 @@ jobs:
           ref: ${{ github.event.pull_request.head.sha }}
           path: pr
           persist-credentials: false
+          allow-unsafe-pr-checkout: true
       - uses: rvben/rumdl@v0.3.2
         with:
           config: .rumdl.toml
