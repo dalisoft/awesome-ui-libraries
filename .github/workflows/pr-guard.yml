@@ -1,0 +1,163 @@
+name: PR Guard
+
+# Privileged half of the pipeline (see ci.yml for the untrusted half).
+#
+# workflow_run always executes the default-branch copy of this file with the
+# base repository's token, so a fork cannot edit the checks that decide
+# close / approve. No PR code is ever checked out here: everything runs
+# through the API against the PR resolved from the CI run's commit.
+on:
+  workflow_run:
+    workflows: [CI]
+    types: [completed]
+
+permissions: {}
+
+concurrency:
+  group: pr-guard-${{ github.event.workflow_run.head_sha }}
+  cancel-in-progress: true
+
+jobs:
+  resolve:
+    name: Resolve PR
+    if: github.event.workflow_run.event == 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    outputs:
+      number: ${{ steps.pr.outputs.number }}
+      author: ${{ steps.pr.outputs.author }}
+      head-repo: ${{ steps.pr.outputs.head-repo }}
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+      - name: Find the PR for the CI run's commit
+        id: pr
+        uses: actions/github-script@v9.0.0
+        with:
+          script: |
+            // workflow_run.pull_requests is unreliable for fork PRs, so
+            // resolve the PR via the commit that CI ran on instead
+            const { data: prs } = await github.request('GET /repos/{owner}/{repo}/commits/{ref}/pulls', {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              ref: context.payload.workflow_run.head_sha,
+            })
+            const pr = prs.find((pr) => pr.state === 'open')
+            if (!pr) {
+              core.info(`No open PR for ${context.payload.workflow_run.head_sha}; nothing to guard.`)
+              return
+            }
+            core.setOutput('number', String(pr.number))
+            core.setOutput('author', pr.user.login)
+            core.setOutput('head-repo', pr.head.repo.full_name)
+
+  spam-guard:
+    name: PR Spam Guard
+    needs: resolve
+    # Source: https://github.com/Zijian-Ni/awesome-ai-agents-2026
+    # Skipped for the maintainer and dependabot
+    if: >-
+      !cancelled() &&
+      needs.resolve.outputs.number != '' &&
+      needs.resolve.outputs.author != 'dalisoft' &&
+      needs.resolve.outputs.author != 'dependabot[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      pull-requests: write
+      issues: write
+    outputs:
+      closed: ${{ steps.audit.outputs.closed }}
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+      - name: Audit submitter
+        id: audit
+        uses: actions/github-script@v9.0.0
+        with:
+          script: |
+            const { data: pr } = await github.rest.pulls.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: ${{ needs.resolve.outputs.number }},
+            })
+            context.payload.pull_request = pr
+
+            const { default: prSpamGuard } = await import('${{ github.workspace }}/.github/scripts/pr-spam-guard.js')
+
+            await prSpamGuard({github, context, core})
+
+  lgtm:
+    name: LGTM
+    needs: [resolve, spam-guard]
+    # Skipped when the Spam Guard already closed the PR
+    if: >-
+      !cancelled() &&
+      needs.resolve.outputs.number != '' &&
+      needs.spam-guard.outputs.closed != 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+      pull-requests: write
+    outputs:
+      approved: ${{ steps.review.outputs.approved }}
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+      - name: Approve or request changes
+        id: review
+        uses: actions/github-script@v9.0.0
+        with:
+          script: |
+            // Map the CI run's job results onto the needs.<job>.result
+            // vocabulary pr-review.js expects
+            const { data } = await github.rest.actions.listJobsForWorkflowRun({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              run_id: context.payload.workflow_run.id,
+              per_page: 100,
+            })
+            const jobResult = (name) =>
+              data.jobs.find((job) => job.name === name)?.conclusion ?? 'skipped'
+            process.env.LINT_RESULT = jobResult('PR Lint')
+            process.env.SIGNED_RESULT = jobResult('Signed Commits')
+            process.env.SPAM_RESULT = '${{ needs.spam-guard.result }}'
+
+            const { data: pr } = await github.rest.pulls.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: ${{ needs.resolve.outputs.number }},
+            })
+            context.payload.pull_request = pr
+
+            const { default: prReview } = await import('${{ github.workspace }}/.github/scripts/pr-review.js')
+
+            await prReview({github, context, core})
+
+  automerge:
+    name: Auto-merge
+    needs: [resolve, lgtm]
+    # Dependabot updates only, and only once LGTM approved
+    if: >-
+      !cancelled() &&
+      needs.lgtm.outputs.approved == 'true' &&
+      needs.resolve.outputs.author == 'dependabot[bot]' &&
+      needs.resolve.outputs.head-repo == github.repository
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - run: gh pr merge "$PR_NUMBER" --auto --squash
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ needs.resolve.outputs.number }}
