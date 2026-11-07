@@ -5,13 +5,16 @@ name: CI
 #   PR Lint ──┬── Signed Commits (always required) ──┬── LGTM (review) ── Auto-merge
 #             └── PR Spam Guard (run or skip) ───────┘
 #
-# PRs use pull_request_target so every job runs the *base branch* copy of
-# this workflow and of .github/scripts: a fork cannot edit the checks that
-# decide approve / request changes. PR files are only checked out (without
-# credentials) into ./pr for linting and are never executed.
+# PRs use pull_request (never pull_request_target): for fork PRs the token is
+# read-only and secrets are unavailable, and no fork code is checked out in a
+# privileged context. PR files are checked out (without credentials) into ./pr
+# for linting only and are never executed. Every other checkout is pinned to
+# master, so a PR cannot alter the config or the .github/scripts that decide
+# approve / request changes. Jobs needing write access (Spam Guard, LGTM) only
+# run for same-repo branches; fork PRs get lint + signed-commits + human review.
 on:
   push:
-  pull_request_target:
+  pull_request:
     branches: [master]
     types: [opened, reopened, synchronize, ready_for_review]
   workflow_dispatch:
@@ -33,26 +36,25 @@ jobs:
       # Base branch (trusted): provides .rumdl.toml
       - uses: actions/checkout@v7.0.1
         with:
+          ref: ${{ github.event_name == 'pull_request' && 'master' || github.ref }}
           persist-credentials: false
-      # PR head (untrusted): data only, linted with the base config
-      - if: github.event_name == 'pull_request_target'
+      # PR merge commit (untrusted): data only, linted with the base config
+      - if: github.event_name == 'pull_request'
         uses: actions/checkout@v7.0.1
         with:
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.event.pull_request.head.sha }}
           path: pr
           persist-credentials: false
       - uses: rvben/rumdl@v0.3.2
         with:
           config: .rumdl.toml
           command: fmt-check
-          path: ${{ github.event_name == 'pull_request_target' && 'pr' || '' }}
+          path: ${{ github.event_name == 'pull_request' && 'pr' || '' }}
 
   signed-commits:
     name: Signed Commits
     needs: lint
     # Always required for every PR, regardless of author or lint result
-    if: ${{ !cancelled() && github.event_name == 'pull_request_target' }}
+    if: ${{ !cancelled() && github.event_name == 'pull_request' }}
     runs-on: ubuntu-latest
     timeout-minutes: 5
     permissions:
@@ -61,6 +63,7 @@ jobs:
     steps:
       - uses: actions/checkout@v7.0.1
         with:
+          ref: ${{ github.event_name == 'pull_request' && 'master' || github.ref }}
           persist-credentials: false
       - name: Check all PR commits are signed
         uses: actions/github-script@v9.0.0
@@ -74,10 +77,12 @@ jobs:
     name: PR Spam Guard
     needs: lint
     # Source: https://github.com/Zijian-Ni/awesome-ai-agents-2026
-    # Skipped for the maintainer and dependabot
+    # Skipped for the maintainer and dependabot. Fork PRs only get a read-only
+    # token, so write jobs run for same-repo branches only.
     if: >-
       !cancelled() &&
-      github.event_name == 'pull_request_target' &&
+      github.event_name == 'pull_request' &&
+      github.event.pull_request.head.repo.full_name == github.repository &&
       github.event.pull_request.user.login != 'dalisoft' &&
       github.event.pull_request.user.login != 'dependabot[bot]'
     runs-on: ubuntu-latest
@@ -91,6 +96,7 @@ jobs:
     steps:
       - uses: actions/checkout@v7.0.1
         with:
+          ref: ${{ github.event_name == 'pull_request' && 'master' || github.ref }}
           persist-credentials: false
       - name: Audit submitter
         id: audit
@@ -104,10 +110,12 @@ jobs:
   lgtm:
     name: LGTM
     needs: [lint, signed-commits, spam-guard]
-    # Skipped on push, and when the Spam Guard already closed the PR
+    # Skipped on push, and when the Spam Guard already closed the PR. Fork PRs
+    # only get a read-only token, so write jobs run for same-repo branches only.
     if: >-
       !cancelled() &&
-      github.event_name == 'pull_request_target' &&
+      github.event_name == 'pull_request' &&
+      github.event.pull_request.head.repo.full_name == github.repository &&
       needs.spam-guard.outputs.closed != 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 5
@@ -119,6 +127,7 @@ jobs:
     steps:
       - uses: actions/checkout@v7.0.1
         with:
+          ref: ${{ github.event_name == 'pull_request' && 'master' || github.ref }}
           persist-credentials: false
       - name: Approve or request changes
         id: review

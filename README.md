@@ -224,6 +224,7 @@ List of curated UI libraries, templates and inspirations
 - [awesome-minimalist](https://github.com/neiesc/awesome-minimalist)
 - [awesome-react-components](https://github.com/brillout/awesome-react-components)
 - [awesome-shadcn/ui](https://github.com/birobirobiro/awesome-shadcn-ui)
+- [browsable.dev](https://browsable.dev)
 - [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
 - [TOOOLS.design](https://www.toools.design)
 - [UIVerse](https://uiverse.io)
